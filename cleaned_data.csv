@@ -1,0 +1,733 @@
+,Dis No,Year,Disaster Subgroup,Disaster Type,Disaster Subtype,Disaster Subsubtype,Location,Origin,Latitude,Longitude,Start Year,Start Month,Start Day,End Year,End Month,End Day,Total Deaths
+175,1990-0346-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Oklahoma, Kansas, Nebraska, Missouri, Iowa, Illinois, Alabama, Georgie",,,,1990,3,13,1990,3,17,15
+176,1990-0357-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Texas, Oklahoma, Arkansas, Virginie, Caroline du Nord",,,,1990,5,1,1990,5,9,13
+177,1990-0359-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Texas, Oklahoma, Arkansas, Kansas, Missouri, Illinois, Indiana, Kentucky",,,,1990,5,14,1990,5,17,
+178,1990-0360-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Nebraska, Iowa, Kansas, Missouri, Texas, Oklahoma, Arkansas",,,,1990,5,18,1990,5,21,
+179,1990-0363-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Colorado, Kansas, Missouri, Indiana, Kentucky",,,,1990,6,6,1990,6,8,
+180,1990-0350-USA,1990,Meteorological,Storm,Convective storm,Severe storm,Texas,,,,1990,4,5,1990,4,5,
+181,1990-0353-USA,1990,Meteorological,Storm,Convective storm,Severe storm,Oklahoma,,,,1990,4,16,1990,4,17,
+182,1990-0355-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Texas, Kansas, Louisiane, Alabama, Georgie, Caroline du Sud",,,,1990,4,24,1990,4,28,
+183,1990-0362-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Indiana, Illinois, Ohio, Kansas, Kentucky",,,,1990,6,1,1990,6,3,10
+184,1990-0707-USA,1990,Hydrological,Flood,Riverine flood,,"Washington, Oregon, Idaho, Montana, Wyoming, Colorado",Heavy rain,,,1990,1,9,1990,1,11,3
+187,1990-0366-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Kansas, Illinois, Indiana, Ohio",,,,1990,6,14,1990,6,14,21
+188,1990-0378-USA,1990,Meteorological,Storm,Convective storm,Severe storm,Colorado,,,,1990,7,11,1990,7,11,
+189,1990-0398-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Illinois, Indiana, New York, Kentucky, Tennessee, Georgie",,,,1990,8,28,1990,8,28,24
+190,1990-0413-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Caroline Du Nord, Virginie, Maryland, Pennsylvanie, New Jersey, Connecticut, New York",,,,1990,10,18,1990,10,18,
+191,1990-0419-USA,1990,Meteorological,Storm,Convective storm,Severe storm,"Illinois, Indiana, Missouri",,,,1990,11,27,1990,11,27,
+192,1990-0187-USA,1990,Geophysical,Earthquake,Ground movement,,Southern California,,34.140 N,117.70 W,1990,2,28,1990,2,28,
+193,1990-0703-USA,1990,Geophysical,Earthquake,Ground movement,,Alamo (central California),,37.885 N,121.983 W,1990,3,30,1990,3,30,
+194,1990-0713-USA,1990,Hydrological,Flood,Flash flood,,"Vicksburg (Warren county, Mississippi)",Brief torrential rain,,,1990,5,31,1990,6,2,
+195,1990-0708-USA,1990,Hydrological,Flood,Riverine flood,,Baton Rouge (Louisiana),Heavy rain,,,1990,1,25,1990,1,27,
+196,1990-0254-USA,1990,Meteorological,Extreme temperature,Cold wave,,"Washington, Ohio, Illinois, Indiana",,,,1990,12,20,1990,12,20,
+197,1990-0373-USA,1990,Meteorological,Extreme temperature,Heat wave,,"Californie, Arizona, Colorado",,,,1990,6,25,1990,6,25,11
+198,1990-0135-USA,1990,Biological,Epidemic,Viral disease,,Florida,,,,1990,7,,1990,7,,3
+199,1990-0073-USA,1990,Hydrological,Flood,,,Shadyside (Ohio state),,,,1990,6,21,1990,6,21,35
+200,1990-0420-USA,1990,Meteorological,Storm,,,,,,,1990,12,18,1990,12,18,79
+202,1991-0485-USA,1991,Meteorological,Storm,Convective storm,Severe storm,"Californie, Arizona",,,,1991,2,27,1991,2,28,
+203,1991-0484-USA,1991,Meteorological,Storm,Convective storm,Severe storm,"Texas, Louisiane",,,,1991,2,18,1991,2,19,
+204,1991-0486-USA,1991,Meteorological,Storm,Convective storm,Severe storm,"Louisiane, Mississippi, Alabama, Georgie, North Carolina, South Carolina, Floride, New York",,,,1991,3,1,1991,3,4,
+205,1991-0500-USA,1991,Meteorological,Storm,Convective storm,Tornado,"Texas, Kansas, Iowa, Louisiane, Nebraska, Missouri, Mississippi, Oklahoma, Alabama, Georgie, Arkansas",,,,1991,4,26,1991,4,29,33
+207,1991-0515-USA,1991,Meteorological,Storm,Convective storm,Hail,Montana,,,,1991,6,24,1991,6,24,
+208,1991-0508-USA,1991,Meteorological,Storm,Convective storm,Tornado,"Nevada, Colorado, Kansas, Nebraska, Oklahoma, Texas",,,,1991,5,30,1991,5,30,
+209,1991-0513-USA,1991,Meteorological,Storm,Convective storm,Tornado,"South Dakota, Minnesota",,,,1991,6,17,1991,6,17,
+210,1991-0514-USA,1991,Meteorological,Storm,Convective storm,Tornado,"Colorado, Texas, Kansas, Nebraska, Oklahoma, Missouri",,,,1991,6,21,1991,6,21,
+211,1991-0516-USA,1991,Meteorological,Storm,Convective storm,Tornado,"Wisconsin, Ohio, Maryland, Michigan, Indiana, Kentucky, Virginie",,,,1991,7,7,1991,7,7,
+212,1991-0540-USA,1991,Meteorological,Storm,Convective storm,Tornado,"Kansas, Missouri, Illinois",,,,1991,10,2,1991,10,2,
+213,1991-0546-USA,1991,Meteorological,Storm,Convective storm,Tornado,"Washington, Oregon, Texas, Arkansas, Ten Nessee, Illinois, Louisiane, Mississippi",,,,1991,11,16,1991,11,16,
+214,1991-0422-USA,1991,Meteorological,Storm,Convective storm,Sand/Dust storm,California,,,,1991,11,30,1991,11,30,15
+215,1991-0488-USA,1991,Meteorological,Storm,Convective storm,Severe storm,"Kansas, Illinois, Indiana",,,,1991,3,11,1991,3,11,
+216,1991-0192-USA,1991,Geophysical,Earthquake,Ground movement,,Pasadena area (California),,34.10 N,118.09 W,1991,6,28,1991,6,28,2
+217,1991-0490-USA,1991,Hydrological,Flood,Riverine flood,,"Arkansas, Oklahoma, Texas, Indiana, Iowa, Mississippi, Tennessee, Illinois, Kentucky, Missouri",,,,1991,3,21,1991,3,21,
+218,1991-0491-USA,1991,Hydrological,Flood,Riverine flood,,"Kansas, Missouri, Ohio, Illinois, Wisconsin, New York, Indiana, Tennessee, Michigan, Alabama, Pennsylvanie, Kentucky",,,,1991,3,26,1991,3,26,
+219,1991-0492-USA,1991,Hydrological,Flood,Riverine flood,,"Alabama, Georgie, North + South Carolina",,,,1991,3,28,1991,3,28,
+220,1991-0493-USA,1991,Hydrological,Flood,Riverine flood,,"Tennessee, Pennsylvanie, West Virginia, Kentucky",,,,1991,4,8,1991,4,8,
+221,1991-0494-USA,1991,Hydrological,Flood,Riverine flood,,"Nebraska, Kansas, Texas, Oklahoma, Louisiane, Arkansas, Mississippi",,,,1991,4,11,1991,4,11,
+222,1991-0496-USA,1991,Hydrological,Flood,Riverine flood,,"Texas, Arizona, Floride, Louisiane, Mississippi, Alabama, Georgie",,,,1991,4,18,1991,4,18,
+223,1991-0499-USA,1991,Hydrological,Flood,Riverine flood,,"Texas, Floride, Louisiane",,,,1991,4,24,1991,4,24,
+224,1991-0501-USA,1991,Hydrological,Flood,Riverine flood,,"Texas, Alabama, Georgie, Louisiane, Mississ Ippi, Arkansas, Missouri, Kansas, Illinois, Nebraska, Oklahoma",,,,1991,5,2,1991,5,2,
+225,1991-0502-USA,1991,Hydrological,Flood,Riverine flood,,"North + South Dakota, Nebraska",,,,1991,5,10,1991,5,10,
+226,1991-0503-USA,1991,Hydrological,Flood,Riverine flood,,"Illinois, Indiana, Iowa, Wyoming, Colorado, Oklahoma, Kansas, Missouri, Nebraska",,,,1991,5,15,1991,5,15,
+227,1991-0504-USA,1991,Hydrological,Flood,Riverine flood,,Texas,,,,1991,5,21,1991,5,21,
+228,1991-0505-USA,1991,Hydrological,Flood,Riverine flood,,"Colorado, Texas, Kansas, Oklahoma, Missouri",,,,1991,5,23,1991,5,23,
+229,1991-0218-USA,1991,Meteorological,Storm,Tropical cyclone,,"North Carolina, Delaware, New York, Richmond, Maine, Rhode Island, Connecticut, Massachusetts, Indiana, Michigan, Ohio, Kentucky",,,,1991,8,18,1991,8,20,18
+230,1991-0423-USA,1991,Meteorological,Storm,Tropical cyclone,,"New England, New York, New Jersey",,,,1991,10,30,1991,10,30,2
+231,1991-0543-USA,1991,Meteorological,Storm,Tropical cyclone,,"Massachusetts, New York, Rhode Island, New Jersey, Connecticut",,,,1991,10,29,1991,10,29,2
+232,1991-0425-USA,1991,Climatological,Wildfire,Forest fire,,"Washington, Idaho, Montana, Wyoming, Colorado",,,,1991,10,17,1991,10,17,2
+233,1991-0426-USA,1991,Climatological,Wildfire,Forest fire,,Oakland,,,,1991,10,21,1991,10,22,26
+234,1991-9476-USA,1991,Climatological,Drought,Drought,,California,,,,1991,1,,1991,7,,
+235,1991-9523-USA,1991,Climatological,Drought,Drought,,"Pennsylvania, Maryland",,,,1991,7,,1991,7,,
+236,1991-0406-USA,1991,Meteorological,Storm,,,Texas,,,,1991,12,15,1991,12,15,17
+237,1991-0487-USA,1991,Hydrological,Flood,,,"Californie, Nevada",,,,1991,3,2,1991,3,2,
+238,1991-0776-USA,1991,Hydrological,Flood,,,Texas,,,,1991,12,18,1992,1,10,15
+240,1992-0271-USA,1992,Meteorological,Storm,Tropical cyclone,,"Kauai, Nihau, Oahu, Hawai",,,,1992,9,11,1992,9,12,6
+242,1992-0188-USA,1992,Meteorological,Storm,Convective storm,Hail,"Louisiana, Kansas, Missouri",,,,1992,4,10,1992,4,10,
+243,1992-0191-USA,1992,Meteorological,Storm,Convective storm,Hail,"Texas, Mississipi, Alabama",,,,1992,4,19,1992,4,19,
+244,1992-0179-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Texas, Arizona, Florida",,,,1992,3,3,1992,3,3,
+245,1992-0181-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Texas, Louisiana, Mississipi, Alabama, North Carolina",,,,1992,3,8,1992,3,8,
+246,1992-0185-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Texas, Louisiana, Florida",,,,1992,3,24,1992,3,24,
+247,1992-0193-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Oklahoma, Texas",,,,1992,4,28,1992,4,28,
+248,1992-0198-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Oklahoma, Texas, Louisiana, Arkansas",,,,1992,5,10,1992,5,10,
+249,1992-0203-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"New Mexico, Texas",,,,1992,5,22,1992,5,22,
+250,1992-0209-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Colorado, Kansas, Nebraska, South Dakota, Louisiana, Minnesota, Wisconsin, Michigan, Illinois, Indiana, Ohio, Kentucky, Alabama, Mississippi, Okhahoma, Texas",,,,1992,6,14,1992,6,14,
+251,1992-0212-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Kansas, Okhlahoma",,,,1992,6,19,1992,6,19,
+252,1992-0214-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Colorado, New Mexico, Okhlahoma, Texas",,,,1992,6,24,1992,6,24,
+253,1992-0219-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Illinois, Indiana",,,,1992,7,2,1992,7,2,
+254,1992-0267-USA,1992,Meteorological,Storm,Convective storm,Severe storm,New York,,,,1992,7,5,1992,7,5,
+255,1992-0268-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Kansas, Louisiana, Illinois, Missouri, Ohio, Pennsylvania, New York, Connecticut, Rhode Island, New Jersey",,,,1992,7,6,1992,7,6,
+256,1992-0270-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Okhlahoma, Kansas",,,,1992,9,5,1992,9,5,
+257,1992-0272-USA,1992,Meteorological,Storm,Convective storm,Severe storm,Florida,,,,1992,10,3,1992,10,3,
+258,1992-0273-USA,1992,Meteorological,Storm,Convective storm,Severe storm,Texas,,,,1992,10,15,1992,10,15,
+259,1992-0274-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Kentucky, Ohio, Pennsylvania, New York",,,,1992,11,12,1992,11,12,
+260,1992-0275-USA,1992,Meteorological,Storm,Convective storm,Severe storm,"Texas, Louisiana, Arkansas, Georgia, Tennessee, Kentucky, Indiana, Ohio, North Carolina",,,,1992,11,21,1992,11,21,27
+261,1992-0276-USA,1992,Meteorological,Storm,Convective storm,Severe storm,Alaska,,,,1992,12,,1992,12,,
+262,1992-0120-USA,1992,Geophysical,Earthquake,Ground movement,,"Ferndale, Fortuna and Petrolia areas (North California)",,40.415 N,124.603 W,1992,4,25,1992,4,25,
+263,1992-0215-USA,1992,Geophysical,Earthquake,Ground movement,,Landers California,,34.00 N,118.15 W,1992,6,28,1992,6,28,1
+264,1992-0554-USA,1992,Geophysical,Earthquake,Ground movement,,South California,,33.961,-116.32,1992,4,22,1992,4,22,
+265,1992-0066-USA,1992,Meteorological,Storm,Tropical cyclone,,"Florida, Louisiana, Bahamas",,,,1992,8,24,1992,8,24,44
+266,1992-0106-USA,1992,Meteorological,Storm,Tropical cyclone,,Majuro ( Marshall Isl.),,,,1992,1,7,1992,1,7,
+267,1992-0269-USA,1992,Climatological,Wildfire,Forest fire,,"California, Idaho, Oregon, Utah",,,,1992,8,17,1992,8,17,
+268,1992-0383-USA,1992,Climatological,Wildfire,Forest fire,,Tahoe (California),,,,1992,9,29,1992,9,29,
+269,1992-0177-USA,1992,Meteorological,Storm,,,"Texas, California",,,,1992,2,9,1992,2,9,8
+270,1992-0208-USA,1992,Meteorological,Storm,,,"Texas, Okhahoma, Arkansas, Louisiana",,,,1992,6,14,1992,6,14,
+271,1992-0277-USA,1992,Meteorological,Storm,,,California,,,,1992,12,7,1992,12,7,
+272,1992-0278-USA,1992,Meteorological,Storm,,,"New Jersey, New York, Pennsylvania, Massachusetts",,,,1992,12,10,1992,12,13,12
+279,1993-0425-USA,1993,Meteorological,Storm,Convective storm,Hail,Texas,,,,1993,3,25,1993,3,25,
+280,1993-0426-USA,1993,Meteorological,Storm,Convective storm,Hail,Kansas,,,,1993,3,28,1993,3,28,
+281,1993-0435-USA,1993,Meteorological,Storm,Convective storm,Hail,"Ohio, Pennsylvania",,,,1993,7,28,1993,7,28,
+282,1993-0151-USA,1993,Meteorological,Storm,Convective storm,Tornado,"Tulsa, Catoosa (Oklahoma)",,,,1993,4,24,1993,4,25,7
+283,1993-0422-USA,1993,Meteorological,Storm,Convective storm,Tornado,"Kentucky, Tennessee, Georgia",,,,1993,2,21,1993,2,21,3
+284,1993-0427-USA,1993,Meteorological,Storm,Convective storm,Tornado,"Georgia, Florida",,,,1993,4,5,1993,4,5,
+285,1993-0434-USA,1993,Meteorological,Storm,Convective storm,Tornado,"Oklahoma, Wisconsin, Illinois, Indiana, Ohio, Pennsylvania, New Jersey, Connecticut, New York",,,,1993,6,7,1993,6,9,3
+286,1993-0437-USA,1993,Meteorological,Storm,Convective storm,Tornado,"Kansas, Missouri",,,,1993,9,21,1993,9,21,
+287,1993-0438-USA,1993,Meteorological,Storm,Convective storm,Tornado,"Brownwood, San Angelo, Del Rio (Texas)",,,,1993,10,12,1993,10,12,
+288,1993-0428-USA,1993,Meteorological,Storm,Convective storm,Severe storm,"Texas, Missouri",,,,1993,4,19,1993,4,19,
+289,1993-0430-USA,1993,Meteorological,Storm,Convective storm,Severe storm,"Texas, Harris, Galveston",,,,1993,5,,1993,5,,
+290,1993-0433-USA,1993,Meteorological,Storm,Convective storm,Severe storm,"Oklahoma, Kansas, Colorado,, Arkansas, Missouri, Illinois, Indiana, Kentucky, West Virginia, Virginia, Nevada",,,,1993,6,2,1993,6,2,
+291,1993-0480-USA,1993,Geophysical,Earthquake,Ground movement,,Klamath Falls (Oregon),,42.314,-122.01,1993,9,21,1993,9,21,2
+292,1993-0421-USA,1993,Hydrological,Flood,Flash flood,,"Louisiana, Minnesota, Iowa, Ohio, Virginia",Brief torrential rain,,,1993,1,20,1993,1,21,
+293,1993-0043-USA,1993,Hydrological,Flood,Riverine flood,,"Okhlahoma, Minnesota, Wisconsin, Iowa, Illinois, Missouri, South Dakota, North Dakota, Nebraska and Kansas",Heavy rain,,,1993,6,24,1993,8,23,48
+294,1993-0126-USA,1993,Hydrological,Flood,Riverine flood,,"Boyd, Butler, Colfax, Cuming, Dodge, Merrick, Platte, Sarpy, Saunders, Seward and Stanton (Eastern Nebraska)",Snowmelt,,,1993,3,7,1993,3,12,2
+295,1993-0420-USA,1993,Hydrological,Flood,Riverine flood,,"California, Arizona, Nevada, Utah",Heavy rain,,,1993,1,6,1993,1,20,43
+296,1993-0201-USA,1993,Meteorological,Storm,Tropical cyclone,,North Carolina,,,,1993,8,28,1993,8,28,1
+297,1993-0429-USA,1993,Meteorological,Storm,Tropical cyclone,,Texas,,,,1993,4,28,1993,4,29,
+298,1993-0431-USA,1993,Meteorological,Storm,Tropical cyclone,,"Minnesota, Kansas, Oklahoma, South Dakota, Texas, Arkansas, Nebraska, Louisiana",,,,1993,5,5,1993,5,5,3
+299,1993-0432-USA,1993,Meteorological,Extreme temperature,Heat wave,,Boston (Washigton),,,,1993,6,,1993,6,,48
+300,1993-0440-USA,1993,Climatological,Wildfire,Forest fire,,"San Diego, Laguna Beach, Malibu, Los Angeles, Orange (California)",,,,1993,10,27,1993,11,3,3
+301,1993-0562-USA,1993,Biological,Epidemic,Parasitic disease,,Wisconsin,,,,1993,1,,1993,1,,100
+302,1993-0099-USA,1993,Hydrological,Flood,,,Washington,,,,1993,1,20,1993,1,20,5
+303,1993-0100-USA,1993,Meteorological,Storm,,,"California, Nevada, Utah, Arizona",,,,1993,1,12,1993,1,12,
+304,1993-0123-USA,1993,Hydrological,Flood,,,,,,,1993,2,28,1993,2,28,
+305,1993-0193-USA,1993,Meteorological,Storm,,,Virginia,,,,1993,8,6,1993,8,6,4
+306,1993-0423-USA,1993,Meteorological,Storm,,,"Maryland, Delaware, New Jersey, Pennsylvania",,,,1993,3,4,1993,3,4,
+307,1993-0424-USA,1993,Meteorological,Storm,,,"Texas, Louisiana, Mississipi, Alabama, Florida, Georgia, South Carolina, North Carolina, Virginia, Maryland, Delaware, New Jersey, Pennsylvannia, New York, Connecticut, Rhode Island, Massachusetts, Vermont, New Hampshire, Maine, Tennessee, Kentucky, Ohio, West Virginia",,,,1993,3,12,1993,3,12,270
+308,1993-0436-USA,1993,Meteorological,Storm,,,Pueblo (Colorado),,,,1993,8,4,1993,8,4,
+309,1994-0002-USA,1994,Geophysical,Earthquake,Ground movement,,"Los Angeles, Ventura, Orange, San Bernardino Counties (California)",,0.34 N,30.12 E,1994,1,17,1994,1,17,60
+313,1994-0023-USA,1994,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, Washington, New Jersey, Pennsylvannia, Illinois, Ohio, Virginia, Tennessee, Kentucky, North and South Carolina, Connecticut",,,,1994,1,14,1994,1,20,69
+314,1994-0019-USA,1994,Meteorological,Storm,Convective storm,Tornado,"Georgia, Alabama, Texas, Louisiana, Mississippi, Arkansas, Tennessee,South Carolina, North Carolina",,,,1994,3,26,1994,3,26,44
+315,1994-0045-USA,1994,Hydrological,Landslide,Mudslide,,Malibu (California),,,,1994,2,20,1994,2,20,
+541,1994-0510-USA,1994,Meteorological,Storm,Tropical cyclone,,,,,,1994,11,13,1994,11,18,6
+542,1994-0361-USA,1994,Hydrological,Flood,Riverine flood,,"Houston, Galveston (Texas)",Heavy rain,,,1994,10,17,1994,10,23,37
+544,1994-0339-USA,1994,Meteorological,Storm,Convective storm,Hail,"Denver (Colorado), Illinois",,,,1994,10,7,1994,10,7,
+545,1994-0784-USA,1994,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Texas, Lousiana, Arkansas, Mississippi, Alabama, Georgia, Tennessee, Kentucky, West Virginia, South Carolina, North Carolina",,,,1994,2,10,1994,2,12,6
+546,1994-0100-USA,1994,Meteorological,Storm,Convective storm,Severe storm,"Texas, Missouri, Kentucky",,,,1994,4,15,1994,4,15,3
+547,1994-0599-USA,1994,Geophysical,Earthquake,Ground movement,,Eureka,,34.17 N,118.27 W,1994,12,26,1994,12,26,
+548,1994-0152-USA,1994,Meteorological,Storm,Tropical cyclone,,"Georgia, Michigan, Florida, Alabama",,,,1994,7,,1994,7,,32
+549,1994-0149-USA,1994,Climatological,Wildfire,Forest fire,,Los Angeles,,,,1994,6,27,1994,6,27,
+550,1994-0154-USA,1994,Climatological,Wildfire,Forest fire,,Colorado,,,,1994,7,6,1994,7,6,13
+551,1994-0192-USA,1994,Climatological,Wildfire,Forest fire,,"California, Montana, Iadaho, Oregon, Utah, Nevada, Washington states",,,,1994,8,6,1994,8,6,
+552,1994-0106-USA,1994,Meteorological,Storm,,,"Texas, Oklahoma, Arkansas, Colorado, Kansas, Nebraska, Iowa, South Dakota, illinois, Indiana, Minnesota",,,,1994,4,26,1994,4,26,3
+553,1994-0146-USA,1994,Meteorological,Storm,,,"Georgia, Alabama, Kentucky, North Carolina, South Carolina",,,,1994,6,27,1994,6,27,2
+556,1995-0489-USA,1995,Meteorological,Storm,Convective storm,Tornado,"texas, Oklahoma, Kansas, Ohio, Pennsylvannia",,,,1995,5,22,1995,5,25,3
+557,1995-0492-USA,1995,Meteorological,Storm,,,"California, Oregon, washington",,,,1995,12,11,1995,12,13,6
+558,1995-0245-USA,1995,Meteorological,Storm,Tropical cyclone,,"Florida, Georgia, Alabama, North Carolina",,,,1995,10,4,1995,10,8,19
+559,1995-0404-USA,1995,Meteorological,Storm,Tropical cyclone,,"Florida, Alabama, Mississipi",,,,1995,7,31,1995,8,6,11
+560,1995-0026-USA,1995,Meteorological,Storm,,,"California, Oregon, Florida, North Carolina, Middle West",,,,1995,1,6,1995,1,10,20
+561,1995-0041-USA,1995,Meteorological,Storm,,,"California, Washington, Oregon, Nevada, Texas",,,,1995,3,8,1995,3,20,33
+564,1995-0083-USA,1995,Meteorological,Storm,Convective storm,Tornado,"Alabama, Colorado, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Mississippi, Missouri, Nebraska, Oklahoma, Texas, Tennessee, Virginia",,,,1995,5,16,1995,5,19,5
+565,1995-0045-USA,1995,Hydrological,Flood,Riverine flood,,Louisiana (New orleans),Heavy rains,,,1995,5,7,1995,5,13,6
+566,1995-0481-USA,1995,Hydrological,Flood,Riverine flood,,"Wsahington, Oregon",Rain and snowmelt,,,1995,11,28,1995,12,10,2
+567,1995-0483-USA,1995,Hydrological,Flood,Riverine flood,,Alaska,Heavy rain,,,1995,9,18,1995,10,16,
+568,1995-0488-USA,1995,Hydrological,Flood,Riverine flood,,"Mississippi, Missouri, Illinois, Kansas, Nebarska, Oklahoma",Heavy rain,,,1995,5,10,1995,6,1,3
+569,1995-0208-USA,1995,Meteorological,Storm,Tropical cyclone,,,,,,1995,9,14,1995,9,19,8
+570,1995-0288-USA,1995,Meteorological,Extreme temperature,Cold wave,,"Atlanta, Detroit, Philadelphia, Chicago, Milwaukee",,,,1995,12,9,1995,12,9,40
+571,1995-0150-USA,1995,Meteorological,Extreme temperature,Heat wave,,"Missouri, Oklahoma, Ilinois, Wisconsin, Iowa, New-York, Chicago, Washington (Dc)",,,,1995,7,14,1995,7,14,670
+572,1995-0046-USA,1995,Hydrological,Flood,,,South Dakota,,,,1995,5,8,1995,5,8,
+573,1995-0073-USA,1995,Meteorological,Storm,,,"Texas, Los Angeles, New Mexique, Dallas, Fort Worth",,,,1995,5,5,1995,5,6,18
+574,1995-0143-USA,1995,Hydrological,Flood,,,Blue Ridge Mountain Canyon,,,,1995,7,2,1995,7,2,8
+575,1995-0403-USA,1995,Meteorological,Storm,,,"Texas, Oklahoma, Missourri, Kansas, Arkanasas, Los Angeles, Mississipi, Iowa, Illinois",,,,1995,5,7,1995,5,7,27
+580,1996-0295-USA,1996,Hydrological,Flood,Riverine flood,,"Washington, Oregon, Nevada, Idaho",Rain and snowmelt,,,1996,12,27,1997,1,3,28
+581,1996-0199-USA,1996,Meteorological,Storm,Tropical cyclone,,"North Carolina, South Carolina, Virginia, Maryland, West Virginia, Pennsylvania, Ohio, Washington DC",,,,1996,9,5,1996,9,11,39
+584,1996-0274-USA,1996,Meteorological,Storm,Convective storm,Tornado,Texas,,,,1996,11,25,1996,11,25,19
+585,1996-0454-USA,1996,Meteorological,Storm,Convective storm,Tornado,"Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Missouri, Iowa, Illinois, Indiana, Kentucky, Tennessee",,,,1996,4,19,1996,4,19,6
+586,1996-0449-USA,1996,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Indiana, Ohio, Kentucky, West Virginia, North Carolina, Virginia, Maryland, Delaware, Pennsylvania, New Jersey, New York, Connecticut, Massachusetts, Vermont, New Hampshire",,,,1996,1,6,1996,1,6,32
+587,1996-0450-USA,1996,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Maryland, Pennsylvania, New Jersey, New York, Connecticut",,,,1996,1,12,1996,1,12,120
+588,1996-0451-USA,1996,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Minnesota, Wisconsin, Michigan, Iowa, Nebraska, Kansas, Oklahoma, Texas, Louisiana, Arkansas, Missouri, Illinois, Indiana, Kentucky, Tennessee, Mississipi, Alabama, Florida, Georgia, S & N Carolina, Virgina, West Virginia, Maryland, Delaware, Pennsylvania, New Jersey, New York +",,,,1996,1,31,1996,1,31,59
+589,1996-0453-USA,1996,Meteorological,Storm,Convective storm,Severe storm,"Arkansas, Louisiana, Mississippi, Alabama, Tannesse, Georgia",,,,1996,3,5,1996,3,5,6
+590,1996-0455-USA,1996,Meteorological,Storm,Convective storm,Severe storm,"Kansas, Missouri, Illinois, Indiana, Ohio",,,,1996,4,27,1996,4,27,6
+591,1996-0015-USA,1996,Hydrological,Flood,Riverine flood,,"Nevada, Arizona, New Mexico, Texas, Arkansas, Mississippi, Missouri, Minnesota,Virginia, Maryland, Delaware, Pennsylvania, New Jersey, New York, Connecticut, Massachusetts",Snowmelt,,,1996,1,15,1996,1,21,35
+592,1996-0031-USA,1996,Hydrological,Flood,Riverine flood,,"Washington, Oregon, Idaho, Montana","Heavy rains, Snowmlet",,,1996,2,7,1996,2,13,7
+593,1996-0494-USA,1996,Hydrological,Flood,Riverine flood,,Western Pennsylvania,Heavy rain,,,1996,7,18,1996,7,21,2
+594,1996-0250-USA,1996,Climatological,Wildfire,Forest fire,,California,,,,1996,10,19,1996,10,19,
+595,1996-0452-USA,1996,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Texas, Kensas, Oklahoma",,,,1996,2,24,1996,2,24,1
+596,1996-0247-USA,1996,Meteorological,Storm,,,"Pensylvania, New York, New Jersey, Connecticut, Rhode Islands, Massachusetts, New Halpshire, Vermont, Maine",,,,1996,10,20,1996,10,20,
+600,1997-0112-USA,1997,Meteorological,Storm,Convective storm,Hail,"Texas, Louisiana, Florida",,,,1997,5,20,1997,5,27,28
+601,1997-0083-USA,1997,Hydrological,Flood,,,"Grand Forks, Fargo",Snow melt,,,1997,4,17,1997,5,7,3
+602,1997-0008-USA,1997,Hydrological,Flood,Riverine flood,,"Nevada, Idaho, California",Heavy rain,,,1997,1,1,1997,2,7,20
+604,1997-0034-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Arkansas, Ohio, Kentucky, Texas, Mississippi, Tennessee,West Virginia",,,,1997,2,28,1997,3,3,70
+609,1997-0341-USA,1997,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Minnesota, Michigan, Indiana, Ohio, West Virginia, Massachusets, New Hampshire",,,,1997,7,,1997,7,,16
+610,1997-0349-USA,1997,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,Denver (Colorado),,,,1997,8,11,1997,8,11,5
+611,1997-0317-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Alabama, Tennessee",,,,1997,1,24,1997,1,24,1
+612,1997-0323-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Indiana, Kentucky, Tennessee",,,,1997,3,23,1997,3,23,
+613,1997-0327-USA,1997,Meteorological,Storm,Convective storm,Tornado,Texas,,,,1997,4,10,1997,4,10,
+614,1997-0329-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Texas, Arkensas, Mississippi, Alabama, Georgia, Louisiana, Florida",,,,1997,4,21,1997,4,21,4
+615,1997-0330-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Virginia, Illinois",,,,1997,4,30,1997,4,30,
+616,1997-0333-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Iowa, Kansas, Illinois, Ohio, Pennsylvania",,,,1997,5,17,1997,5,17,
+617,1997-0336-USA,1997,Meteorological,Storm,Convective storm,Tornado,"South Dakota, Nebraska, Iowa, Illinois, Wisconsin",,,,1997,6,20,1997,6,20,
+618,1997-0351-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Iowa, Illinois, Missouri, Indiana, Ohio, Pennsylvania, New Jersey, New York",,,,1997,8,15,1997,8,15,
+619,1997-0360-USA,1997,Meteorological,Storm,Convective storm,Tornado,"Florida, Maine",,,,1997,11,,1997,11,,
+620,1997-0315-USA,1997,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"North Dakota, South Dakota, Minnesota",,,,1997,1,4,1997,1,4,31
+621,1997-0571-USA,1997,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Iowa, Illinois, Minnesota, Wisconsin, Michigan",,,,1997,4,4,1997,4,6,9
+622,1997-0361-USA,1997,Meteorological,Storm,Convective storm,Severe storm,"Laguna Beach, Huntington Beach (California)",,,,1997,12,5,1997,12,5,
+623,1997-0040-USA,1997,Hydrological,Flood,Riverine flood,,"Kentucky, Ohio, Tennessee, Georgia, North Carolina, Pennsylvania, New Jersey, New York, Connecticut, Rhode Island, Maine",,,,1997,3,8,1997,3,8,31
+624,1997-0172-USA,1997,Hydrological,Flood,Riverine flood,,Narrow Canyon (Arizona),Heavy rain,,,1997,8,10,1997,8,12,11
+625,1997-0318-USA,1997,Hydrological,Flood,Riverine flood,,"California, Nevada",,,,1997,1,25,1997,1,25,
+626,1997-0347-USA,1997,Hydrological,Flood,Riverine flood,,Fort Collins (Northern Colorado),Heavy rain,,,1997,7,25,1997,8,1,5
+627,1997-0346-USA,1997,Meteorological,Storm,Tropical cyclone,,"Louisiana, Alabama, South Carolina, North Carolina",,,,1997,7,18,1997,7,24,
+628,1997-0174-USA,1997,Climatological,Wildfire,Forest fire,,California,,,,1997,8,9,1997,8,9,
+629,1997-0219-USA,1997,Climatological,Wildfire,Forest fire,,California,,,,1997,9,14,1997,9,14,
+630,1997-0127-USA,1997,Hydrological,Flood,,,"Montana, Idaho, Washington",,,,1997,6,13,1997,6,13,2
+631,1997-0215-USA,1997,Hydrological,Flood,,,Cook County,,,,1997,8,21,1997,8,21,
+632,1997-0307-USA,1997,Meteorological,Storm,,,From Georgia to New York,,,,1997,12,30,1997,12,30,
+633,1997-0319-USA,1997,Meteorological,Storm,,,New York,,,,1997,2,27,1997,2,27,
+634,1997-0320-USA,1997,Meteorological,Storm,,,Minnesota,,,,1997,3,13,1997,3,13,
+635,1997-0324-USA,1997,Meteorological,Storm,,,"Pennsylvania, New Jersey, New York, Connecticut, Rhode Is., Massachusets, New Hampshire",,,,1997,3,31,1997,3,31,
+636,1997-0332-USA,1997,Meteorological,Storm,,,"Louisiana, Mississippi, Alabama, Georgia, Florida, Pennsylvania",,,,1997,5,2,1997,5,2,
+637,1997-0359-USA,1997,Meteorological,Storm,,,"Colorado, Nebraska, Iowa, Michigan, Mississippi, Alabama, Florida",,,,1997,10,25,1997,10,25,16
+639,1998-0024-USA,1998,Meteorological,Storm,Convective storm,Tornado,"Osceola, Seminole, Volusia counties, Daytona beach (Florida)",,,,1998,2,22,1998,2,23,42
+640,1998-0031-USA,1998,Meteorological,Storm,Convective storm,Hail,"Houston (Texas, Louisiana)",,,,1998,2,10,1998,2,10,
+641,1998-0092-USA,1998,Meteorological,Storm,Convective storm,Hail,"Illinois, Indiana, Wisconsin, Minissotta",,,,1998,3,27,1998,4,3,1
+642,1998-0097-USA,1998,Meteorological,Storm,Convective storm,Hail,"Alabama, Missouri, Georgia",,,,1998,4,8,1998,4,9,43
+643,1998-0168-USA,1998,Meteorological,Storm,Convective storm,Hail,"Wisconsin, Minnesota, Iowa",,,,1998,5,15,1998,5,16,1
+644,1998-0180-USA,1998,Meteorological,Storm,Convective storm,Hail,"IA, SD, Minnessota, MI, WI, PA, New York, MA, NH, VT, Ohio, New Jersey",,,,1998,5,30,1998,6,1,18
+645,1998-0199-USA,1998,Hydrological,Flood,Flash flood,,"Hansas, IA, MO, Illinois, WI, Mississippi, Indiana, PA, New York, New Jersey, CT, RI, MA, Ohio, West virginia, Minnesota, Idaho, Vermont,",Brief torrential rain,,,1998,6,24,1998,7,1,11
+646,1998-0016-USA,1998,Meteorological,Storm,,,New England (Maine),,,,1998,1,5,1998,1,12,16
+647,1998-0212-USA,1998,Meteorological,Extreme temperature,Heat wave,,"Arizona, Florida, Colorado, Texas, Oklahoma, LA",,,,1998,5,1,1998,7,20,130
+648,1998-0304-USA,1998,Meteorological,Storm,Convective storm,Tornado,"Oklahoma, Kansas",,,,1998,10,4,1998,10,4,9
+649,1998-0277-USA,1998,Meteorological,Storm,Tropical cyclone,,Texas,,,,1998,8,21,1998,8,24,7
+650,1998-0315-USA,1998,Meteorological,Storm,,,"Colorado, Texas",,,,1998,10,16,1998,10,19,13
+654,1998-0228-USA,1998,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,Las Vegas,,,,1998,7,21,1998,7,21,
+655,1998-0067-USA,1998,Meteorological,Storm,Convective storm,Tornado,"Georgia, Louisiana, Minnesota, Alabama, Florida, South carolina, North Craolina",,,,1998,3,5,1998,3,9,14
+656,1998-0200-USA,1998,Hydrological,Flood,Flash flood,,Vermont,,,,1998,6,29,1998,6,29,
+657,1998-0066-USA,1998,Hydrological,Flood,Riverine flood,,"S Alabama, N and C Georgia",Heavy rain,,,1998,3,7,1998,3,13,11
+658,1998-0256-USA,1998,Hydrological,Flood,Riverine flood,,Wisconsin,,,,1998,8,7,1998,8,7,
+659,1998-0185-USA,1998,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,Florida,,,,1998,5,25,1998,7,5,1
+660,1998-0286-USA,1998,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,San Diego county (California),,,,1998,8,31,1998,8,31,
+661,1998-0306-USA,1998,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,California,,,,1998,10,5,1998,10,5,1
+662,1998-0319-USA,1998,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,California,,,,1998,10,20,1998,10,20,
+663,1998-0008-USA,1998,Hydrological,Flood,,,Alabama,,,,1998,1,8,1998,1,8,7
+664,1998-0025-USA,1998,Meteorological,Storm,,,California,,,,1998,2,3,1998,2,3,10
+665,1998-0366-USA,1998,Meteorological,Storm,,,"Kansas, Oklahoma",,,,1998,10,10,1998,11,3,1
+825,1998-0600-USA,1998,Meteorological,Storm,,,"AR, MO Illinois, Kentucky, Tennessee",,,,1998,4,15,1998,4,17,4
+826,1998-0602-USA,1998,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"IA, Wisconsin, SD, MN, Illinois, Indianaa, MO, MI, Ohio",,,,1998,11,9,1998,11,11,7
+827,1998-0420-USA,1998,Meteorological,Storm,,,"Texas, Tennessee, LA, Arkansas, MS, North Carolina, South Carolina",,,,1998,12,23,1998,12,28,10
+828,1998-0380-USA,1998,Meteorological,Storm,Tropical cyclone,,"Florida, Mississippi, Alabama, Lousiana",,,,1998,9,20,1998,9,29,4
+831,1998-0605-USA,1998,Hydrological,Flood,Flash flood,,"Illinois, Wisconsin, Indiana, MI",Brief torrential rain,,,1998,8,4,1998,8,6,2
+832,1998-0606-USA,1998,Hydrological,Flood,Riverine flood,,"Iowa, Indiana, , Illinois, Ohio, MI, Wisconsin",,,,1998,6,13,1998,6,17,
+833,1998-0610-USA,1998,Meteorological,Storm,Tropical cyclone,,"North Carolina, Virginia, South Carolina",,,,1998,8,19,1998,8,30,2
+834,1998-0611-USA,1998,Meteorological,Storm,Tropical cyclone,,"Texas, Louisiana",,,,1998,9,8,1998,9,13,1
+836,1999-0098-USA,1999,Meteorological,Storm,Convective storm,Tornado,"Louisiana, Kansas, Arkansas, Montana, Oklahoma, Tennessee, Texas",,,,1999,4,2,1999,4,4,10
+837,1999-0108-USA,1999,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Mississippi, Louisiana, Texas",,,,1999,4,13,1999,4,15,1
+838,1999-0737-USA,1999,Meteorological,Storm,,,"Oklahoma, Texas, Lousiana, Arkansas",,,,1999,4,26,1999,4,26,
+840,1999-0107-USA,1999,Meteorological,Storm,Convective storm,Hail,"Indiania, Illinois, Iowa, Montania, Ohio",,,,1999,4,8,1999,4,10,9
+841,1999-0179-USA,1999,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Iowa, Illinois, Indiana, Kansas, Michigan, Texas",,,,1999,5,16,1999,5,16,2
+842,1999-0005-USA,1999,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Texas, Oklahoma, Arkansas, Missouri, Louisiana, Mississippi, Alabama, Georgia, Florida, South and NOrth Carolina, Tennessee, Illinois, Indiana, Ohio, Pennsylvania, West Virginia, Virginia, Maryland, Delaware, New Jersey, New York, Connecticut, Rhode Islands, Massachusetts, Maine",,,,1999,1,1,1999,1,4,48
+843,1999-0246-USA,1999,Meteorological,Extreme temperature,Heat wave,,"Illinois, Missouri, Wisconsin, Ohio, Sth.Carolina, Ohlahoma, Kentucky, Indiana, Tennessee, Nth.Carolina, Kansas, Georgia, Arkansas, Maryland, Nebraska, N-York, Pennsylvania, Louisiana, Michigan, Minnesota, Alabama",,,,1999,7,,1999,8,,257
+844,1999-0327-USA,1999,Meteorological,Storm,Tropical cyclone,,"North Carolina, Florida, South Carolina, Virginia, Maryland, Pennsylvania, New Jersey, New York, Delaware, Rhode Island, Connecticut, Massachusetts, Vermont",,,,1999,9,13,1999,9,17,70
+847,1999-0042-USA,1999,Meteorological,Storm,Convective storm,Tornado,"Tennessee, Arkansas, Indiana, Alabama, Texas, Montana, Lousiana, Missouri, Georgia",,,,1999,1,21,1999,1,22,18
+848,1999-0109-USA,1999,Meteorological,Storm,Convective storm,Tornado,Central Georgia,,,,1999,4,15,1999,4,15,
+849,1999-0167-USA,1999,Meteorological,Storm,Convective storm,Tornado,"Oklahoma, Kansas, Nebraska, Texas, Arkansas, Lousiana, Missouri, Alabama, Florida, Georgia, Illinois, Indiana, Kentucky, North Carolina, Ohio, South carolina, Tennessee, Missouri",,,,1999,5,3,1999,5,7,49
+850,1999-0266-USA,1999,Meteorological,Storm,Convective storm,Tornado,Salt Lake City (Utah,,,,1999,8,11,1999,8,11,1
+851,1999-0618-USA,1999,Meteorological,Storm,Convective storm,Tornado,Tennessee,,,,1999,5,5,1999,5,5,4
+852,1999-0298-USA,1999,Meteorological,Storm,Tropical cyclone,,Kennedy county (Texas),,,,1999,8,22,1999,8,23,3
+853,1999-0435-USA,1999,Meteorological,Storm,Tropical cyclone,,"Bahamas, Floride",,,,1999,10,15,1999,10,15,6
+854,1999-0619-USA,1999,Meteorological,Storm,Tropical cyclone,,"Bahamas, North Carolina, Virginia",,,,1999,8,28,1999,9,7,3
+855,1999-0112-USA,1999,Climatological,Wildfire,Forest fire,,Florida,,,,1999,4,15,1999,4,15,
+856,1999-0297-USA,1999,Climatological,Wildfire,Forest fire,,California,,,,1999,8,24,1999,8,24,
+857,1999-0094-USA,1999,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,Nebraska,,,,1999,3,19,1999,3,19,1
+858,1999-9358-USA,1999,Climatological,Drought,Drought,,"Kentucky, Maryland, Ohio, Pennsylvania, Virginia , West Virginia",,,,1999,7,,1999,,,
+859,1999-0088-USA,1999,Meteorological,Storm,,,"North Carolina, Oregon, West Virginia",,,,1999,3,2,1999,3,4,3
+860,1999-0740-USA,1999,Hydrological,Flood,,,"Tillamook, Lincoln counties (Oregon coast)",,,,1999,11,26,1999,11,28,
+866,2000-0080-USA,2000,Hydrological,Flood,Riverine flood,,"Kentucky, Ohio provinces",Heavy rain,,,2000,2,18,2000,2,22,3
+867,2000-0500-USA,2000,Hydrological,Flood,Riverine flood,,"Morris, Sussex districts (New Jersey province)",Heavy rain,,,2000,8,12,2000,8,14,
+868,2000-0919-USA,2000,Meteorological,Storm,,,"Alabama, Georgia, Louisiana, North Carolina, South Carolina, Tennessee, Virginia, New York, Pennsylvania, Massachussetts provinces",,,,2000,1,22,2000,1,25,4
+869,2000-9712-USA,2000,Climatological,Drought,Drought,,Wyoming province,,,,2000,11,,2000,,,
+870,2000-0838-USA,2000,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Texas, Oklahoma, New Mexico, Arkansas, Missouri, Minnesota provinces",,,,2000,12,24,2000,12,24,57
+877,2000-0021-USA,2000,Meteorological,Storm,Convective storm,Tornado,"Crittenden, Daviess, Webster districts (Kentucky province)",,,,2000,1,2,2000,1,4,1
+878,2000-0067-USA,2000,Meteorological,Storm,Convective storm,Tornado,"Bullock, Montgomery districts (Alabama province), Colquitt, Grady, Mitchell, Thomas, Tift districts (Georgia province), Washington district (Floride province), Lonoke, Prairie, Saline districts (Arkansas province)",,,,2000,2,13,2000,2,14,22
+879,2000-0175-USA,2000,Meteorological,Storm,Convective storm,Tornado,"Fort Worth Texas city (Tarrant district, Texas province), Reagan, Burleson districts (Texas province)",,,,2000,3,28,2000,3,28,5
+880,2000-0338-USA,2000,Meteorological,Storm,Convective storm,Tornado,"Adams, Columbia, Crawford, Dane, Dodge, Grant, Green, Iowa, Juneau, La crosse, Lafayette, Monroe, Richland, Rock, Sauk, Vernon districts (Wisconsin province)",,,,2000,5,26,2000,5,26,
+881,2000-0463-USA,2000,Meteorological,Storm,Convective storm,Tornado,"Granite Falls city (Yellow Medicine, Minnesota province)",,,,2000,7,25,2000,7,25,1
+882,2000-0614-USA,2000,Meteorological,Storm,Convective storm,Tornado,"Xenia city (Greene district, Ohio province)",,,,2000,9,20,2000,9,20,1
+883,2000-0756-USA,2000,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Buffalo city (Erie district, New York province)",,,,2000,11,20,2000,11,20,
+884,2000-0360-USA,2000,Meteorological,Storm,Convective storm,Severe storm,"Anderson, Benton, Cheatham, Davidson, Henry, Hickman, Houston, Jackson, Knox, Lake, Obion, Perry, Pickett, Stewart districts (Tennessee province)",,,,2000,5,23,2000,5,23,
+885,2000-0598-USA,2000,Geophysical,Earthquake,Ground movement,,"Near Yountville city (Napa district, California province)",,38.3788333,-122.4133333,2000,9,3,2000,9,3,
+886,2000-0232-USA,2000,Hydrological,Flood,Flash flood,,"Franklin, Jefferson districts (Missouri province)",Brief torrential rain,,,2000,5,6,2000,5,9,2
+887,2000-0271-USA,2000,Hydrological,Flood,Flash flood,,Oklahoma province,Brief torrential rain,,,2000,5,6,2000,5,9,1
+888,2000-0865-USA,2000,Hydrological,Flood,Riverine flood,,Maui district (Hawaii province),Heavy rains,,,2000,11,2,2000,11,2,
+889,2000-0937-USA,2000,Meteorological,Storm,Convective storm,,"Tuscaloosa district (Alabama province), Connecticut, Florida, Georgia, Massachusetts, Mississippi, Norh Carolina, New Jersey, New York, Pennsylvania, Rhode Island provinces",,,,2000,12,16,2000,12,17,12
+890,2000-0652-USA,2000,Meteorological,Storm,Tropical cyclone,,"Miami-Dade, Monroe, Broward, Collier districts (Florida province)",,,,2000,10,4,2000,10,4,2
+891,2000-0433-USA,2000,Meteorological,Extreme temperature,Heat wave,,"Texas, Louisiana, Alabama provinces",,,,2000,7,,2000,7,,35
+892,2000-0128-USA,2000,Climatological,Wildfire,Forest fire,,"Gainesville, Alachua areas (Alachua district, Florida province), Lafayette, Gulf districts (Florida province)",,,,2000,2,26,2000,2,26,
+893,2000-0240-USA,2000,Climatological,Wildfire,Forest fire,,"Los Alamos, Rio Arriba, Sandoval, Santa Fe districts (New Mexico province)",,,,2000,5,,2000,9,,
+894,2000-0279-USA,2000,Climatological,Wildfire,Forest fire,,Sarasota district (Florida province),,,,2000,5,14,2000,5,14,
+895,2000-0363-USA,2000,Climatological,Wildfire,Forest fire,,"Park, Jefferson, Larimer districts (Colorado province)",,,,2000,6,12,2000,6,12,
+896,2000-0406-USA,2000,Climatological,Wildfire,Forest fire,,"Hanford area (Benton district, Washington province)",,,,2000,6,27,2000,6,27,
+897,2000-0450-USA,2000,Climatological,Wildfire,Forest fire,,Alaska province,,,,2000,7,,2000,7,,
+898,2000-0465-USA,2000,Climatological,Wildfire,Forest fire,,"Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, South Dakota, Texas, Utah, Washington, Wyoming, Florida, North Dakota provinces",,,,2000,7,,2000,8,,14
+899,2000-9339-USA,2000,Climatological,Drought,Drought,,"South Carolina, Georgia, Alabama, Florida, Louisiana, Texas provinces",,,,2000,6,,2002,,,
+900,2000-0296-USA,2000,Hydrological,Flood,,,Liberty district (Texas province),,,,2000,5,19,2000,5,19,
+901,2000-0297-USA,2000,Hydrological,Flood,,,"Franklin, Jefferson, Gasconade districts (Missouri province)",,,,2000,5,23,2000,5,23,2
+902,2000-0502-USA,2000,Hydrological,Flood,,,Pennsylvania province,,,,2000,7,30,2000,7,30,
+1057,2001-0266-USA,2001,Meteorological,Storm,,,"New Hampshire, Vermont, Maine, Massachusetts, Rhode Island provinces",,,,2001,3,20,2001,3,20,2
+1058,2001-0460-USA,2001,Hydrological,Flood,Riverine flood,,Virginia province,Heavy rain,,,2001,7,8,2001,7,9,2
+1059,2001-0145-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Kearny, Trego, Ellis, Rooks, Ford, Osborne, Smith, Jewell, Edwards, Republic, Washington districts (Kansas province), Union city (Franklin district, Missouri province), Johnson, Pettis, Cooper, Callaway, St Charles, Gentry, Worth, Clark, Madison districts (Missouri), Beaver, Pontotoc, Coal, Johnston, Atoka, Haskell, Pottawatomie districts (Oklahoma province), Wichita, Cooke, Carson, Hutchinson, Hansford, Wheeler districts (Texas province), Thayer, Gage, Sarpy, Webster, Nuckolls districts (Nebraska province), Mills, Pottawattamie, Guthrie, Boone, Hamilton, Wapello, Johnson, Black Hawk, Benton, Fayette, Webster, Ringgold districts (Iowa province), Madison district (Illinois province)",,,,2001,4,10,2001,4,11,4
+1060,2001-0477-USA,2001,Meteorological,Storm,,,"Watkins area (Adams district, Colorado province)",,,,2001,6,21,2001,6,21,
+1061,2001-0242-USA,2001,Meteorological,Storm,Tropical cyclone,,"Texas, Mississippi, Louisiana, Florida, Pennsylvania, South Carolina, North Carolina, Georgia, Pensylvania, New Jersey, Virginia, Iowa provinces",,,,2001,6,5,2001,6,17,41
+1062,2001-0106-USA,2001,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Virginia, New Jersey, Pennsylvania, North Carolina, West Virginia, Maryland provinces",,,,2001,2,22,2001,2,22,11
+1064,2001-0102-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Calhoun, Lee, Pontotoc, Prentiss, Union districts (Mississippi province)",,,,2001,2,24,2001,2,24,7
+1065,2001-0194-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Marion, Clay districts (Florida province)",,,,2001,3,29,2001,3,29,
+1066,2001-0270-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Hoisington city (Barton district, Kansas province)",,,,2001,4,21,2001,4,21,1
+1067,2001-0351-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Blue Grass, Bettendorf cities (Scott district, Iowa province), Leon city (Decatur district, Iowa province)",,,,2001,6,14,2001,6,14,
+1068,2001-0473-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Siren city (Burnett district, Wisconsin province)",,,,2001,6,18,2001,6,18,3
+1069,2001-0474-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Brainerd city (Crow King district, Minnesota province)",,,,2001,6,13,2001,6,13,
+1070,2001-0564-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Cordell city (Washita district, Oklahoma province), Polk, Merrick, Hamilton districts (Nebraska province)",,,,2001,10,10,2001,10,10,
+1071,2001-0566-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Howard, Prince George's districts (Maryland province)",,,,2001,9,24,2001,9,24,2
+1072,2001-0601-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Pasadena city (Harris district, Texas province)",,,,2001,10,11,2001,10,11,
+1073,2001-0602-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Hondo city (Medina district, Texas province)",,,,2001,10,12,2001,10,12,
+1074,2001-0773-USA,2001,Meteorological,Storm,Convective storm,Tornado,"Jakson town (Dakota district, Nebraska province)",,,,2001,8,17,2001,8,17,
+1075,2001-0099-USA,2001,Geophysical,Earthquake,Ground movement,,"Seattle city (King district), Tacoma city (Pierce district), Olympia city (Thurston district) (Washington province)",,47.149,-122.7266667,2001,2,28,2001,2,28,1
+1076,2001-0262-USA,2001,Hydrological,Flood,Riverine flood,,"Cleveland area (Henry district, Illinois province), Barstow, Osborn areas (Rock Island district, Illinois province)",Ice jam/break,,,2001,2,27,2001,3,1,
+1077,2001-0268-USA,2001,Hydrological,Flood,Riverine flood,,"Minnesota, Iowa, Wisconsin, Illinois provinces",Snowmelt,,,2001,4,15,2001,5,15,1
+1078,2001-0724-USA,2001,Hydrological,Flood,Riverine flood,,Texas province,Heavy rain,,,2001,11,15,2001,11,19,9
+1079,2001-0770-USA,2001,Meteorological,Extreme temperature,Heat wave,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",,,,2001,8,,2001,8,,56
+1080,2001-0303-USA,2001,Climatological,Wildfire,Forest fire,,Florida province,,,,2001,4,,2001,4,,1
+1081,2001-0451-USA,2001,Climatological,Wildfire,Forest fire,,"Oregon, Washington, Idaho, California, Nevada, Colorado, Arizona, Wyoming, Texas, Oklahoma provinces",,,,2001,8,,2001,8,,
+1082,2001-0722-USA,2001,Climatological,Wildfire,Forest fire,,"Tennessee, Kentucky, West Virginia, Virginia, Georgia provinces",,,,2001,10,30,2001,10,30,1
+1083,2001-0771-USA,2001,Meteorological,Storm,,,"Tennesse, Kentucky provinces",,,,2001,8,,2001,8,,11
+1084,2001-0772-USA,2001,Hydrological,Flood,,,District of Columbia province,,,,2001,8,,2001,8,,
+1085,2002-0165-USA,2002,Meteorological,Storm,,,"Sevier, Blount, Knox, Hawkins districts (Tennessee province), Cumberland, Bell districts (Kentucky province), Wise, Smyth, Washington districts (Virginia province), Cabell district (West Virginia province), North Carolina, Mississippi, Arkansas, Texas provinces",,,,2002,3,19,2002,3,19,6
+1086,2002-0724-USA,2002,Meteorological,Storm,Tropical cyclone,,"St. Tammany, Terrebonne, Lafayette, Acadia, Evangeline, Rapides districts (Louisiana province)",,,,2002,10,3,2002,10,3,
+1087,2002-0017-USA,2002,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Alabama, Louisiana, Virginia, North Carolina, South Carolina, Mississipi, Georgia, Pensylvania,",,,,2002,1,,2002,1,,24
+1088,2002-0128-USA,2002,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Oklahoma, Missouri, Wisconsin, Michigan, Arkansas provinces",,,,2002,3,,2002,3,,20
+1091,2002-0283-USA,2002,Meteorological,Storm,Convective storm,Tornado,"Happy town (Randall, Swisher districts, Texas province)",,,,2002,5,5,2002,5,5,2
+1092,2002-0287-USA,2002,Meteorological,Storm,Convective storm,Tornado,"Wayne, Jefferson districts (Illinois province)",,,,2002,4,21,2002,4,21,1
+1093,2002-0310-USA,2002,Meteorological,Storm,Convective storm,Tornado,"Breckinridge, Meade, Crittenden, Webster, Hopkins, Ohio, Hardin, Edmonson districts (Kentucky province), Bollinger, Howell districts (Missouri province), Charles, Calvert, Dorchester, Wicomico, Cecil districts (Maryland province), Illinois (Clay,Union, Johnson,Pope, Moultrie, Saline, Bond), Gordon district (Georgia province), Atchison district (Kansas province), Erie, Allegany districts (New York province), Stark district (Ohio province), Indiana, Mercer, Venango, Butler, Armstrong, Columbia, Lebanon, Allegheny districts (Pennsylvania province), Rutherford, Lake, Henry, Carter districts (Tennessee province), Virginia (Shenandoah, Greensville, Bedford, (Campbell, Nottoway, Prince George), Marshall district (West Virginia province), Pontotoc, Chickasaw districts (Mississippi province), Perry district (Indiana province)",,,,2002,4,27,2002,5,3,10
+1094,2002-0569-USA,2002,Meteorological,Storm,Convective storm,Tornado,"Ladysmith city (Rusk district, Wisconsin province)",,,,2002,9,5,2002,9,5,
+1095,2002-0700-USA,2002,Meteorological,Storm,Convective storm,Tornado,"Tipton, Carroll, Montgomery, Sumner, Bedford, Coffee, Morgan, Cumberland, Anderson districts (Tennessee province), Henry, Dale, Fayette, Walker, Winston, Lamar, Cullman, Tuscaloosa, Jefferson, Cherokee districts (Alabama province), Van Wert, Paulding, Putnam, Defiance, Athens, Logan, Union, Seneca, Ottawa districts (Ohio province), Allen district (Kentucky province), Cross, Crittenden, Mississippi districts (Arkansas province), Appling, Cherokee, Pickens, Dawson, Atkinson, Coffee districts (Georgia province), Blackford district (Indiana province), Lowndes, Winston, Noxubee, Oktibbeha districts (Mississippi province), Mercer district (Pennsylvania province), McCormick district (South Carolina province)",,,,2002,11,5,2002,11,10,36
+1096,2002-0751-USA,2002,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Washington DC (District of Columbia district, District of Columbia province), North Carolina, South Carolina, Virginia, New York, Pennsylvania, Kentucky, New Jersey, Maryland, Missouri, Tennesse provinces",,,,2002,12,4,2002,12,5,30
+1097,2002-0802-USA,2002,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Oklahoma, Massachusetts, New York, Arkansas, Missouri, New Mexico, Louisiana, Texas provinces",,,,2002,12,23,2002,12,23,18
+1098,2002-0183-USA,2002,Hydrological,Flood,Riverine flood,,"Tennessee, Virginia, Kentucky, Ohio, Arkansas, Oklahoma, Texas provinces",Heavy rain,,,2002,3,17,2002,3,24,7
+1099,2002-0266-USA,2002,Hydrological,Flood,Riverine flood,,"Pike district (Kentucky province), Virginia province",Heavy rain,,,2002,5,2,2002,5,8,9
+1100,2002-0411-USA,2002,Hydrological,Flood,Riverine flood,,"Comal, Guadalupe, Bandera, Uvalde, McMullen, Taylor districts (Texas province)",Heavy rain,,,2002,6,30,2002,7,23,10
+1101,2002-0600-USA,2002,Hydrological,Flood,Riverine flood,,Georgia province,Heavy rain,,,2002,9,21,2002,9,24,
+1102,2002-0652-USA,2002,Meteorological,Storm,Tropical cyclone,,"Louisiane, Mississippi, Alabama, Tennessee provinces",,,,2002,9,26,2002,9,27,1
+1103,2002-0355-USA,2002,Meteorological,Extreme temperature,Heat wave,,Arizona province,,,,2002,6,,2002,6,,14
+1104,2002-0092-USA,2002,Climatological,Wildfire,Forest fire,,"Fallbrok area (San Diego district, Californie province)",,,,2002,2,10,2002,2,10,
+1105,2002-0184-USA,2002,Climatological,Wildfire,Forest fire,,Lincoln district (New Mexico province),,,,2002,3,,2002,3,,
+1106,2002-0331-USA,2002,Climatological,Wildfire,Forest fire,,"Georgia, Alaska provinces",,,,2002,5,,2002,5,,
+1107,2002-0351-USA,2002,Climatological,Wildfire,Forest fire,,Colorado province,,,,2002,6,8,2002,6,8,
+1108,2002-0379-USA,2002,Climatological,Wildfire,Forest fire,,Arizona province,,,,2002,6,20,2002,6,20,
+1109,2002-0618-USA,2002,Climatological,Wildfire,Forest fire,,"Claremont, Glendora, La Verne areas (Los Angeles district, California province))",,,,2002,9,22,2002,9,22,
+1110,2002-0625-USA,2002,Climatological,Wildfire,Forest fire,,Oregon province,,,,2002,7,,2002,7,,
+1111,2002-0312-USA,2002,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,Arizona province,,,,2002,4,,2002,4,,
+1112,2002-0502-USA,2002,Biological,Epidemic,Viral disease,,"Alabama, district of Columbia, Illinois, Indiana, Louisiana, Mississippi, Texas, Florida, Massachusetts, Missouri, New York City, Ohio, Georgia, Kentucky, Maryland, Michigan, Nebraska, South Dacota, Tennessee, Texas, Virginia, Wisconsin",,,,2002,7,9,2002,11,26,214
+1113,2002-0858-USA,2002,Biological,Epidemic,Viral disease,,"Alabama, California, Connecticut, Georgia, Hawaii, Illinois, Kansas, Maine, Massachusetts, Michigan, Missouri, Mississippi, Minnesota, New Jersey, New Mexico, North Carolina, New York, Pennsylvannia, Rhode Island, Texas, Utah, Virginia, Wisconsin",,,,2003,2,24,2003,7,13,
+1114,2002-9853-USA,2002,Climatological,Drought,Drought,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",,,,2002,7,,2002,8,,
+1115,2002-0119-USA,2002,Meteorological,Storm,,,"Cleveland, Comanche, Creek, Garvin, Grady, Greer, Harmon, Jackson, Kiowa, Lincoln, McClain, Nowata, Pottawatomie, Rogers, Stephens, Tillman, Tulsa, Alfalfa, Beaver, Beckham, Blaine, Caddo, Canadian, Cimarron, Custer, Dewey, Ellis, Garfield, Grant, Harper, Kay, Kingfisher, Logan, Major, Noble, Oklahoma, Osage, Pawnee, Payne, Roger Mills, Texas, Washington, Washita, Woods, Woodward districts (Oklahoma province), Missouri, Kansas, New York, Indiana, Ohio provinces",,,,2002,1,30,2002,2,8,28
+1116,2002-0667-USA,2002,Biological,Epidemic,,,,,,,2002,10,16,2002,10,16,
+1117,2002-0793-USA,2002,Meteorological,Storm,,,"Marin, Los Angeles, Santa Cruz districts (California province), Oregon, Nevada provinces",,,,2002,12,19,2002,12,19,13
+1118,2002-0880-USA,2002,Meteorological,Storm,,,"Fulton, Tioga, Broome, Oswego, Delaware, Dutchess districts (New York province), Wayne district (Pennsylvania province), Connecticut, Massachusetts, Michigan, New Hampshire, New Jersey, Ohio, Wisconsin provinces",,,,2002,5,30,2002,6,1,1
+1138,2003-0085-USA,2003,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Delaware, Kentucky, Massachusetts, Maryland, North Carolina, New Hampshire, New Jersey, New York, District of Columbia, Ohio, Pennsylvania, Rhode Island, Tennessee, Virginia, Vermont, West Virginia, Illinois, Missouri, Iowa, Nebraska, Connecticut provinces",,,,2003,2,14,2003,2,18,44
+1213,2003-0595-USA,2003,Meteorological,Storm,,,"West Virginia, Tennessee, Kentucky, Pennsylvania, North Carolina, Virginia provinces",,,,2003,11,20,2003,11,20,8
+1214,2003-0139-USA,2003,Meteorological,Storm,Convective storm,Tornado,"Mitchell, Worth districts (Georgia province), Jackson district (Alabama province) North Carolina, South Carolina, Tennessee provinces",,,,2003,3,18,2003,3,20,6
+1216,2003-0829-USA,2003,Meteorological,Storm,,,"Alabama, Illinois, Indiana, Louisiana, Michigan, Missouri, Mississippi, New York, Tennessee,Texas, Pennsylvania, Nebraska, Wisconsin provinces",,,,2003,4,4,2003,4,8,13
+1221,2003-0334-USA,2003,Hydrological,Flood,Riverine flood,,"Allen, Carroll, Adams, Cass, Howard, Tipton, Wells, Miami, Boone, Jennings, Clay, Tippecanoe, Huntington, Decatur districts (Indiana province), Allen, Auglaize, Van Wert, Darke, Mercer, Miami districts (Ohio province), Mercer, Shelby, Logan, Hamilton, Winnebago districts (Illinois province)",Heavy rains,,,2003,7,5,2003,7,21,3
+1223,2003-0468-USA,2003,Meteorological,Storm,Tropical cyclone,,"North Carolina, Maryland, Virginia, West Virginia, Delaware, Pennsylvania, New Jersey, District of Columbia provinces",,,,2003,9,18,2003,9,22,16
+1224,2003-0782-USA,2003,Meteorological,Storm,Tropical cyclone,,"Orleans, St. John the Baptist, Terrebonne, St. Tammany, Tangipahoa districts (Louisiana province), Hancock, Harrison, Jackson, Pike, Walthall districts (Mississippi province), Bay district (Florida province), Mobile, Baldwin, Lee districts (Alabama province), Sumter, Bulloch, Fulton, DeKalb, Cobb, Clayton, Gwinnett districts (Georgia province), Wake district (North Carolina province)",,,,2003,6,30,2003,6,30,4
+1225,2003-0741-USA,2003,Meteorological,Storm,,,"Morgan, Leslie, Breathitt, Menifee districts (Kentucky province), Wayne, Cabell, Kanawha, Lincoln, Mingo districts (West Virginia province), Dickenson, Tazewell, Wise, Buchanan districts (Virginia province), Alabama, Connecticut, Delaware, Florida, Georgia, Massachusetts, Maryland, North Carolina, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont provinces",Rain and snow,,,2003,2,15,2003,2,23,4
+1227,2003-0147-USA,2003,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Denver, Boulder districts (Colorado province), Wyoming province",,,,2003,3,20,2003,3,20,3
+1228,2003-0618-USA,2003,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Pennsylvania, Connecticut, New York, New Jersey, Vermont, Virginia, Massachusetts, Rhode Island provinces",,,,2003,12,6,2003,12,7,13
+1237,2003-0210-USA,2003,Meteorological,Storm,Convective storm,Tornado,"Colbert, Lauderdale, Limestone, Madison, Jackson, Dekalb, Lamar, Walker,St Clair, Talladega, Shelby, Clay districts (Alabama province), Mississippi, Craighead, White, Woodruff, Cross districts (Arkansas province), Adams, Weld, Morgan districts (Colorado province), Cherokee, Franklin, Madison, Elbert, Hart, Heard, Coweta districts (Georgia province), Marion, Mahaska, Lee, Van Buren, Jefferson, Henry, Louisa districts (Iowa province), Adams, Hancock, Mc Donough, Bureau, Henry, Brown, Mason, Fulton, Pope, Schuyler, Sangamon, Pulaski, Massac, Alexander, Jasper, Mercer, Warren, Tazewell districts (Illinois province), Perry, Kosciuscko, Putnam districts (Indiana province), Crawford, Wyandotte, Leavenworth, Neosho, Labette, Cherokee, Butler, Greenwood, Osage, Woodson, Allen, Douglas, Anderson, Linn, Marion districts (Kansas province), Calloway, Webster,Daviess, Mason, Lewis, Union, Henderson, Pulaski districts (Kentucky province), Lawrence, Cass, Platte, Clay, Jackson- Kansas city, Greene, Christian, Camden, Lewis, Barton, Cedar, Polk, Hickory, Dallas, Jasper, Johnson, Newton, Dade, Pettis, Dunklin, Pemiscot, Putnam, Scott, Knox, Scotland, Clark, Macon, Shelby, Mercer, Lafayette, Saline, Cape Girardeau, Bollinger, Pulaski districts (Missouri province), Marshall, Benton, Tippah, Alcorn, Newton, Scott, Chickasaw, Monroe, Lee, Itawamba, Madison, Sunflower districts (Mississippi province), Washington, Vance, Chowan, Bertie, Hertford, Northamton districts (North Carolina province), Saunders district (Nebraska province), Okhlaoma, Moore-Cleveland, Ottawa, Stephens, Creek, Lincoln, Canadian, Caddo, Osage, Noble, Le Flore, Marshall, Love, Jefferson districts (Okhahoma province), Aiken, Abbeville, Williamsburg districts (South Carolina province), Perkins, Todd didstricts (South Dakota province), Dyer, Madison, Hamilton-Chattanooga, Gibson, Weakley, Henry, Stewart, Henderson, Carroll, Montgomery, Robertson, Williamson, Davidson, Cannon, Lincoln, Lawrence, Hardin, McNairy districts (Tennessee province), ood, Upshur, Harrison, Marion districts (Texas province)",,,,2003,5,4,2003,5,10,45
+1238,2003-0413-USA,2003,Meteorological,Storm,Convective storm,Tornado,Palm Beach district (Florida province),,,,2003,8,8,2003,8,8,
+1239,2003-0780-USA,2003,Meteorological,Storm,Convective storm,Tornado,"Mason, Tazewell, Logan, Will, De Witt districts (Illinois province)",,,,2003,5,30,2003,5,30,
+1240,2003-0623-USA,2003,Geophysical,Earthquake,Ground movement,,"Paso Robles, Templeton, Atascadero, Cambria, Morro Bay, Oceano villages (San Luis Obispo district, California province)",,35.7005,-121.1005,2003,12,22,2003,12,22,2
+1241,2003-0663-USA,2003,Hydrological,Flood,Flash flood,,Los Angeles district (California province),Brief torrential rain,,,2003,11,12,2003,11,13,18
+1242,2003-0511-USA,2003,Hydrological,Flood,Riverine flood,,"Snohomish, Mason, Grays Harbor, Jefferson, Clallam, Skagit, Whatcom districts (Washington province)",Heavy rains,,,2003,10,17,2003,10,26,
+1243,2003-0756-USA,2003,Hydrological,Flood,Riverine flood,,"Tennessee, Alabama, Georgia provinces",Heavy rains,,,2003,5,6,2003,5,14,3
+1244,2003-0827-USA,2003,Meteorological,Storm,Convective storm,,"Beaumont, Port Arthur areas (Jefferson district, Texas province), Sugar Land area (Fort Bend district, Texas province), Smith district (Mississipi province), Dallas, Harris districts (Texas province), Los Angeles district (California province), Alabama, Arkansas, Florida, Georgia, Louisiana, Maryland, Missouri, North Carolina, Oklahoma, South Carolina, Tennesse, Virginia, West Virginia provinces",,,,2003,12,15,2003,12,16,2
+1245,2003-0299-USA,2003,Climatological,Wildfire,Forest fire,,"Summerhaven area (Pima district, Arizona province), Lemmon mount (Pima district, Arizona province)",,,,2003,6,17,2003,6,20,
+1246,2003-0518-USA,2003,Climatological,Wildfire,Forest fire,,"Fontana, Rancho Cucamonga areas (San Bernardino district, California province)",,,,2003,10,25,2003,11,4,14
+1247,2003-0786-USA,2003,Climatological,Wildfire,Forest fire,,San Bernardino district (California province),,,,2003,10,21,2003,11,4,4
+1248,2003-0633-USA,2003,Hydrological,Landslide,Mudslide,,San Bernardino district (California province),Heavy rains,,,2003,12,25,2003,12,26,15
+1250,2004-0249-USA,2004,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Geneva, Jefferson, Lauderdale, Limestone, Madison districts (Alabama province), Cross, Mississippi, Nevada districts (Arkansas province), Crawford, Jefferson, Logan, Perry, Washington districts (Illinois province), Clark, Crawford, Hamilton, Hancock, Hendricks, Jackson, Madison, Marion, Monroe, Morgan, Miami, Owen, Tippecanoe, Vanderburgh, Warrick, Washington districts (Indiana province), Buchanan, Lee, Iowa districts (Iowa province), Cloud, Harper, Marshall, Republic, Sumner districts (Kansas province), Henry, Hopkins, Jefferson, Knox, Muhlenberg, McCracken, Webster districts (Kentucky province), St. Clair district (Michigan province), Tippah district (Mississippi province), Buchanan, Clinton, DeKalb, Daviess, Harrison, Laclede, Platte, St. Louis districts (Missouri province), Holt, Lincoln districts (Nebraska province), Adams district (Ohio province), Blaine, Canadian, Creek, Custer, Kingfisher, Mayes, Oklahoma, Tulsa, Wagoner districts (Oklahoma province), Brown, Edmunds, Clay districts (South Dakota province), Bedford, Bradley, Lincoln, Franklin, Giles, Grundy, Hardin, Moore districts (Tennessee province), Cottle, Houston, Tarrant districts (Texas province), Boone, Braxton, Cabell, Jackson, Kanawha, Lewis, Logan, Mason, Morgan, Mingo, Putnam, Upshur, Wayne, Wood, Wyoming districts (West Virginia province), Louisiana province",,,,2004,5,29,2004,6,2,10
+1252,2004-0348-USA,2004,Climatological,Wildfire,Forest fire,,"Carson City district (Nevada province), Los Angeles district (California province)",,,,2004,7,12,2004,7,16,
+1253,2004-0462-USA,2004,Meteorological,Storm,Tropical cyclone,,"Alabama, Louisiana, Mississippi, Florida, Pennsylvania, Maryland, New Jersey, Ohio, North Carolina, West Virginia, Georgia, Tennessee provinces",,,,2004,9,15,2004,9,16,52
+1254,2004-0245-USA,2004,Meteorological,Storm,Convective storm,Hail,"Morgan, Sangamon, Scott districts (Illinois province), Clark, Floyd, Washington districts (Indiana province), Adair, Appanoose, Benton, Clay, Dallas, Grundy, Humboldt, Jones, Linn, Marshall, Pocahontas, Story, Warren districts (Iowa province), Jackson, Linn, Shawnee, Republic districts (Kansas province), Estill, Fayette, Henderson, Henry, Magoffin, Martin, Powell, Pulaski districts (Kentucky province), Washington district (Maryland province), Sanilac, St. Clair, Tuscola districts (Michigan province), Gentry, Holt, Linn, Livingston, Macon, St. Clair districts (Missouri province), Adams, Cass, Clay, Custer, Franklin, Fillmore, Furnas, Gage, Harlan, Jefferson, Lancaster, Nuckolls, Otoe, Saline, Thayer, Webster, York districts (Nebraska province), Broome, Delaware districts (New York province), Athens, Brown, Fayette, Perry, Ross districts (Ohio province), Caddo, Noble, Osage, Pawnee, Tillman districts (Oklahoma province), Crawford district (Pennsylvania province), Hawkins district (Tennessee province), Nolan, Taylor, Val Verde districts (Texas province), Lancaster, Lee, Loudoun, Scott districts (Virginia province), Berkeley district (West Virginia province), Manitowoc, Dane, Columbia districts (Wisconsin province), North Carolina, South Carolina provinces",,,,2004,5,21,2004,5,27,5
+1256,2004-0031-USA,2004,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"North Carolina, South Carolina, Iowa, Missouri, Ohio, Maryland, Nebraska, New York, Virginia, Minnesota, Indiana, Illinois, Pennsylvania, Oklahoma, Georgia, Kansas, New Jersey, West Virginia, Maine provinces",,,,2004,1,15,2004,1,29,56
+1257,2004-0121-USA,2004,Meteorological,Storm,Convective storm,Tornado,"Arkansas, Louisiana, North Carolina, Oklahoma, South Carolina, Texas, Virginia, Kansas, Missouri, Mississippi provinces",,,,2004,3,4,2004,3,7,9
+1262,2004-0731-USA,2004,Meteorological,Storm,Convective storm,Hail,"Arkansas, Illinois, Iowa, Indiana, Missouri, Oklahoma provinces",,,,2004,3,20,2004,3,21,9
+1264,2004-0455-USA,2004,Meteorological,Storm,Tropical cyclone,,"Martin, Palm Beach districts (Florida province), North Carolina, South Carolina, Ohio provinces",,,,2004,9,5,2004,9,5,47
+1266,2004-0196-USA,2004,Climatological,Wildfire,Forest fire,,"Los Angeles, Riverside, San Diego, Santa Barbara districts (California province)",,,,2004,5,2,2004,5,4,
+1270,2004-0338-USA,2004,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Milam, Guadalupe, Bexar districts (Texas province), Eagle district (Colorado province), Mississippi province, Richland district (South Carolina province), Franklinton city (Washington district, Louisiana province), Bufford city (Gwinnett district, Georgia province)",,,,2004,6,28,2004,6,28,4
+1271,2004-0448-USA,2004,Meteorological,Storm,Tropical cyclone,,"Richmond, Lynchburg, Chesterfield districts (Virginia province), South Carolina, North Carolina provinces",,,,2004,8,29,2004,8,30,7
+1272,2004-0415-USA,2004,Meteorological,Storm,Tropical cyclone,,"Bay, Calhoun, Escambia, Franklin, Gadsden, Gulf, Holmes, Jackson, Jefferson, Leon, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, Washington districts (Florida province), South Carolina, North Carolina provinces",,,,2004,8,13,2004,8,13,10
+1286,2004-0502-USA,2004,Meteorological,Storm,Convective storm,Tornado,Caroline district (Virginia province),,,,2004,9,8,2004,9,8,
+1287,2004-0146-USA,2004,Hydrological,Flood,Riverine flood,,"Antigo area (Langlade district, Wisconsin province), Pembina, Walsh districts (North Dakota province)","Melting sow, heavy rain",,,2004,3,28,2004,4,11,
+1288,2004-0248-USA,2004,Hydrological,Flood,Riverine flood,,"Wayne, Oakland, Macomb, Livingston districts (Michigan province)",,,,2004,5,28,2004,5,28,
+1289,2004-0572-USA,2004,Hydrological,Flood,Riverine flood,,"Manoa Valley area (Honolulu district, Hawaii province)",Heavy rains,,,2004,10,30,2004,10,30,
+1290,2004-0675-USA,2004,Hydrological,Flood,Riverine flood,,"Pennsylvania, New Jersey provinces",,,,2004,7,12,2004,7,14,1
+1291,2004-0473-USA,2004,Meteorological,Storm,Tropical cyclone,,Florida province,,,,2004,9,25,2004,9,26,6
+1292,2004-0740-USA,2004,Meteorological,Extreme temperature,Cold wave,,"Connecticut, Delaware, Maryland, Maine, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont provinces",,,,2004,1,9,2004,1,12,3
+1293,2004-0446-USA,2004,Climatological,Wildfire,Forest fire,,"Shasta Lake area (Shasta districts, California province)",,,,2004,8,13,2004,8,14,
+1297,2005-0103-USA,2005,Hydrological,Flood,Riverine flood,,Los Angeles district (California province),Heavy rains,,,2005,2,17,2005,2,23,9
+1299,2005-0015-USA,2005,Hydrological,Flood,Riverine flood,,"La Conchita area (Ventura district, California province), Malibu area (Los Angeles district, California province), Sacramento district (California province), Arizona, Ohio provinces","Heavy rain, heavy snow",,,2005,1,7,2005,1,11,28
+1301,2005-0029-USA,2005,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, Connecticut, Wisconsin, Ohio, Maryland, Massachusetts, Iowa provinces",,,,2005,1,22,2005,1,24,20
+1302,2005-0219-USA,2005,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,Rankin district (Mississippi province),,,,2005,4,6,2005,4,8,
+1303,2005-0203-USA,2005,Hydrological,Flood,Riverine flood,,"New Jersey, Pennsylvania, New York, Maine provinces","Heavy rains, snowmelt",,,2005,4,1,2005,4,6,2
+1394,2005-0467-USA,2005,Meteorological,Storm,Tropical cyclone,,"Mobile, Bayou La Batre, Dauphin Island, Coden areas (Mobile district, Alabama province), New Orleans city (Orleans district, Louisiana province), Slidell area (St. Tammany district, Louisiana province), St. Bernard district (Louisiana province), Biloxi, Gulfport cities (Harrison district, Mississippi province), Pascagoula city (Jackson district, Mississippi province), Waveland, Bay St. Louis cities (Hancock district, Mississippi province), Georgia, Florida provinces",,,,2005,8,29,2005,9,19,1833
+1395,2005-0716-USA,2005,Hydrological,Flood,Riverine flood,,"Reno area (Washoe district, Nevada province), Truckee area (Nevada district, California province), Napa, Sonoma, Mendocino, Marin, Solano, Los Angeles districts (California), Carson City district (Nevada province)",Storm,,,2005,12,31,2006,1,18,3
+1396,2005-0585-USA,2005,Meteorological,Storm,Tropical cyclone,,"Florida Keys, Naples areas (Collier district, Florida province)",,,,2005,10,24,2005,10,24,4
+1406,2005-0286-USA,2005,Hydrological,Flood,Flash flood,,Idaho province,,,,2005,5,6,2005,5,8,
+1407,2005-0583-USA,2005,Hydrological,Flood,Riverine flood,,"Keene, Alstead, Stoddard, Unity, Hinsdale, Walpole areas (Cheshire district, New Hampshire), Brattleboro, Guilford areas (Windham district, Vermont province), Pittsfield area (Berkshire district, Massachusetts province), Greenfield area (Franklin district, Massachusetts province), Northbridge, Worcester, Southbridge areas (Worcester district, Massachusetts), Spring Lake area (Monmouth district, New Jersey province), Wayne, Little Falls, Pompton Lakes areas (Passaic district, New Jersey province), Oakland, Lodi, Westwood areas (Bergen district, New Jersey province), Bound Brook area (Somerset district, New Jersey province), Tolland, Windham, Hartford districts (Connecticut province)",Heavy rain,,,2005,10,8,2005,10,16,11
+1410,2005-0547-USA,2005,Meteorological,Storm,Tropical cyclone,,"Louisiana, Texas, Mississippi provinces",,,,2005,9,23,2005,10,1,10
+1417,2005-0530-USA,2005,Meteorological,Storm,Convective storm,Tornado,Wisconsin province,,,,2005,8,18,2005,8,18,
+1418,2005-0682-USA,2005,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Idaho, Michigan, Minnesota, Montana, North Dakota, Oregon, South Dakota, Washington, Wisconsin, Wyoming provinces",,,,2005,12,8,2005,12,9,10
+1419,2005-0351-USA,2005,Meteorological,Storm,Tropical cyclone,,"Florida, Georgia provinces",,,,2005,7,10,2005,7,10,5
+1420,2005-0687-USA,2005,Meteorological,Extreme temperature,Heat wave,,"Arizona, Nevada, Oklahoma, Utah, Missouri, Kentucky, Ohio, Mississippi provinces",,,,2005,7,4,2005,7,30,33
+1421,2005-0724-USA,2005,Climatological,Wildfire,Forest fire,,"Texas, Oklahoma provinces",,,,2005,12,27,2006,1,4,5
+1425,2006-0180-USA,2006,Hydrological,Flood,Riverine flood,,"Amador, Calaveras, Fresno, Merced, San Joaquin, San Mateo, Stanislau districts (California province)",Heavy rains,37.69,-99.99,2006,4,4,2006,4,17,1
+1426,2006-0182-USA,2006,Hydrological,Flood,Riverine flood,,Kauai district (Hawaii province),Heavy rain,22.15,-99.99,2006,3,14,2006,3,23,7
+1429,2006-0704-USA,2006,Geophysical,Earthquake,Ground movement,,Hawai province,,19.878,-155.935,2006,10,15,2006,10,15,
+1432,2006-0341-USA,2006,Hydrological,Flood,Riverine flood,,"Maryland, Pennsylvania, New York, Delaware, Virginia, New Jersey provinces","Heavy rain, thunderstoms",40.41,-75.78,2006,6,25,2006,7,1,11
+1433,2006-0161-USA,2006,Meteorological,Storm,Convective storm,Hail,"Tennessee, Illinois, Arkansas, Indiana, Oklahoma, Missouri, Kentucky, Iowa provinces",,,,2006,4,2,2006,4,3,28
+1434,2006-0171-USA,2006,Meteorological,Storm,Convective storm,Hail,"Sumner, Warren districts (Tennessee province), Alabama, Georgia, Indiana, Kansas, Kentucky, Ohio provinces",,,,2006,4,6,2006,4,8,12
+1435,2006-0257-USA,2006,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Tarrant, Bexar districts (Texas province)",,,,2006,5,1,2006,5,7,1
+1437,2006-0260-USA,2006,Hydrological,Flood,Riverine flood,,"New Hampshire, Maine, Massachusetts provinces",Heavy rains,43.16,-70.79,2006,5,11,2006,5,22,2
+1438,2006-0546-USA,2006,Hydrological,Flood,Riverine flood,,"Mercer, Jessamine, Franklin, Calloway, Montgomery districts (Kentucky province), Sharp, Clay, Fulton, Randolph, Lawrence districts (Arkansas province), Obion district (Tennessee province), Missouri, Indiana, Illinois provinces",Heavy rain,37.21,-87.62,2006,9,22,2006,9,26,14
+1439,2006-0743-USA,2006,Meteorological,Storm,,,"Illinois, Indiana, Kentucky, Missouri, New York, Ohio, Pennsylvania, Tennessee provinces",,,,2006,11,30,2006,12,3,11
+1441,2006-0128-USA,2006,Meteorological,Storm,Convective storm,Tornado,"Missouri, Arkansas, Illinois, Indiana, Kansas, Oklahoma provinces",,,,2006,3,11,2006,3,13,10
+1442,2006-0595-USA,2006,Meteorological,Storm,Convective storm,Tornado,"North Carolina, Alabama, Arizona, Arkansas, Louisiana, Maryland, Mississippi, Pennsylvania, South Dakota, Texas provinces",,,,2006,11,15,2006,11,16,12
+1443,2006-0642-USA,2006,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Erie, Niagara, Genesee, Orleans districts (New York province)",,,,2006,10,12,2006,10,14,3
+1444,2006-0466-USA,2006,Meteorological,Storm,Tropical cyclone,,"South Carolina, North Carolina, Virginia provinces",,34.74,-77.87,2006,8,2,2006,9,7,6
+1454,2006-0706-USA,2006,Meteorological,Storm,Convective storm,Tornado,"Daytona beach (Volusia district, Florida province)",,,,2006,12,25,2006,12,25,
+1455,2006-0707-USA,2006,Meteorological,Storm,Convective storm,Winter storm/Blizzard,Colorado provinces,,,,2006,12,21,2006,12,21,
+1456,2006-0718-USA,2006,Meteorological,Storm,Convective storm,Winter storm/Blizzard,Kansas province,,,,2006,12,27,2006,12,31,
+1457,2006-0344-USA,2006,Hydrological,Flood,Riverine flood,,"Huron, Erie, Crawford, Lucas, Sandusky districts (Ohio province)",Severe storms,41.41,-86.91,2006,6,22,2006,6,25,2
+1458,2006-0413-USA,2006,Hydrological,Flood,Riverine flood,,El Paso district (Texas province),Heavy rain,31.76,-106.39,2006,7,27,2006,8,7,
+1459,2006-0418-USA,2006,Hydrological,Flood,Riverine flood,,Lake district (Ohio province),Heavy rain,41.52,-81.09,2006,7,27,2006,7,30,1
+1460,2006-0461-USA,2006,Hydrological,Flood,Riverine flood,,Alaska province,Heavy rain,62.45,-99.99,2006,8,19,2006,8,24,
+1461,2006-0566-USA,2006,Hydrological,Flood,Riverine flood,,"Prince William Sound area (Valdez-Cordova district, Alaska province)",Heavy rain,60.88,-145.99,2006,10,9,2006,10,14,
+1462,2006-0598-USA,2006,Hydrological,Flood,Riverine flood,,"Washington, Oregon provinces",Heavy rains,47.86,-122.15,2006,11,5,2006,11,10,2
+1463,2006-0387-USA,2006,Meteorological,Extreme temperature,Heat wave,,"Modesto city (Stanislaus district, California province)",,,,2006,7,14,2006,8,15,164
+1464,2006-0427-USA,2006,Meteorological,Extreme temperature,Heat wave,,New York province,,,,2006,7,30,2006,8,6,24
+1465,2006-0576-USA,2006,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Riverside, Palm Springs cities (Riverside district, California province), San Diego district (California province)",,,,2006,10,26,2006,10,27,4
+1466,2006-0662-USA,2006,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,Ventura district (California province),,,,2006,12,3,2006,12,6,
+1467,2006-0374-USA,2006,Climatological,Wildfire,,,California province,,,,2006,7,9,2006,7,14,1
+1468,2006-0744-USA,2006,Meteorological,Storm,,,"Oregon, Washington provinces",,,,2006,12,14,2006,12,15,10
+1470,2007-0026-USA,2007,Meteorological,Storm,,,"California, Texas, Georgia, South Carolina, Oklahoma, Missouri, Iowa, Michigan, New York, Maine, Kansas, Illinois provinces",,,,2007,1,12,2007,1,17,65
+1475,2007-0066-USA,2007,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, Vermont, New Jersey, Ohio, Pennsylvania provinces",,,,2007,2,14,2007,2,15,16
+1476,2007-0156-USA,2007,Meteorological,Storm,Convective storm,Tornado,Texas province,,,,2007,4,24,2007,4,26,10
+1481,2007-0048-USA,2007,Meteorological,Storm,Convective storm,Tornado,"Volusia, Lake, Sumter, Seminole districts (Florida province)",,,,2007,2,2,2007,2,2,20
+1482,2007-0083-USA,2007,Meteorological,Storm,Convective storm,Tornado,"Alabama, Missouri, Georgia, Minnesota provinces",,,,2007,3,1,2007,3,2,20
+1483,2007-0041-USA,2007,Hydrological,Flood,Riverine flood,,"Indiana, Arkansas, Texas, Ohio, Missouri provinces",Heavy rains,34.88,-90.07,2007,1,15,2007,1,25,24
+1629,2007-0383-USA,2007,Hydrological,Flood,Riverine flood,,"Illinois, Colorado, Michigan, Minnesota, Wisconsin, Ohio, Oklahoma, North Dakota provinces",Heavy rains,36.86,-94.64,2007,8,16,2007,8,27,26
+1630,2007-0581-USA,2007,Meteorological,Storm,,,"Washington, Oregon provinces",,47.09,-122.91,2007,12,3,2007,12,7,17
+1631,2007-0662-USA,2007,Meteorological,Storm,Convective storm,Tornado,"Colorado, Iowa, Kansas, Minnesota, Missouri, Nebraska, Oklahoma, South Dakota provinces",,,,2007,5,4,2007,5,8,12
+1632,2007-0663-USA,2007,Meteorological,Storm,,,"Texas, Delaware, Connecticut, Georgia, Louisiana, Massachusetts, Maine, Maryland, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Vermont, Virginia provinces",,,,2007,4,13,2007,4,17,23
+1633,2007-0244-USA,2007,Hydrological,Flood,Riverine flood,,"Wichita Falls area (Wichita district, Texas province), Georgetown areas (Williamson district, Texas province), Burnet, Marble Falls, Granite Shoals areas (Burnet district, Texas province), Granbury area (Hood district, Texas province), Lampasas, Parker, Eastland districts (Texas province), Miami, Commerce areas (Ottawa district, Oklahoma province), Shawnee, Tecumseh, Maud areas (Pottawatomie district, Oklahoma province), Oklahoma city (Oklahoma district, Oklahoma province), Waurika area (Jefferson district, Oklahoma province), Bartlesville, Dewey areas (Washington district, Oklahoma province), Love, Lincoln districts (Oklahoma province), Coffeyville area (Montgomery district, Kansas province), Osawatomie area (Miami district, Kansas province), Allen, Labette, Neosho, Wilson, Woodson districts (Kansas province), Rockville, Papinville areas (Bates district, Missouri province), Vernon district (Missouri province)",Heavy rain,32.84,-97.17,2007,6,26,2007,7,6,8
+1634,2007-0690-USA,2007,Meteorological,Storm,,,"Iowa, Kansas, Minnesota, Texas, Wisconsin provinces",,,,2007,5,21,2007,5,25,5
+1635,2007-0251-USA,2007,Hydrological,Flood,Flash flood,,New York province,Brief torrential rain,42.23,-74.95,2007,6,19,2007,6,20,4
+1636,2007-0519-USA,2007,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara, Ventura districts (California province)",,,,2007,10,21,2007,10,24,8
+1637,2007-0689-USA,2007,Meteorological,Storm,,,"Arkansas, Iowa, Texas",,,,2007,2,23,2007,2,25,4
+1640,2007-0359-USA,2007,Meteorological,Storm,Tropical cyclone,,"Texas, Oklahoma, Missouri provinces",,,,2007,8,16,2007,8,19,7
+1641,2007-0621-USA,2007,Meteorological,Storm,,,"Illinois, Iowa, Missouri, Minnesota, Kansas, Nebraska, Colorado, Michigan, Wisconsin, Wyoming provinces",,,,2007,12,23,2007,12,26,22
+1642,2007-0641-USA,2007,Meteorological,Storm,,,"Oklahoma, Missouri, Iowa, Illinois, Kansas, Nebraska, Connecticut, Michigan, New York, New Jersey, Pennsylvania, Rhode Island provinces",,,,2007,12,9,2007,12,11,24
+1647,2007-0173-USA,2007,Hydrological,Flood,Riverine flood,,"Texas, Kansas, Oklahoma provinces",Heavy rain,30.24,-98.66,2007,5,24,2007,5,29,8
+1648,2007-0254-USA,2007,Hydrological,Flood,Riverine flood,,"North Texas, Oklahoma provinces",Heavy rain,33.45,-97.3,2007,6,17,2007,6,22,10
+1649,2007-0351-USA,2007,Climatological,Wildfire,Forest fire,,"Alpine, Amador, Calaveras, El Dorado, Mono, Placer, Tuolumne districts (California province)",,,,2007,6,24,2007,7,2,
+1650,2007-0579-USA,2007,Climatological,Wildfire,Forest fire,,"Malibu area (Los Angeles district, California province)",,,,2007,11,24,2007,11,27,
+1651,2007-9548-USA,2007,Climatological,Drought,Drought,,"California, Georgia, Maryland provinces",Lack of precipitation,,,2007,10,,2009,6,,
+1652,2008-0010-USA,2008,Hydrological,Flood,Riverine flood,,"California, Nevada, Oregon provinces",Heavy rains,39.63,-119.2,2008,1,5,2008,1,9,2
+1653,2008-0210-USA,2008,Meteorological,Storm,Convective storm,Tornado,"Dunkerton city (Black Hawk district, Iowa province), Parkesburg, New Hartford cities (Butler district, Iowa province), Cedar Rapids city (Linn district, Iowa province), Minnesota, Indiana, Illinois, Kansas, Michigan, Montana, Missouri, Nebraska, Wisconsin provinces",,39.82,-92.33,2008,5,22,2008,5,26,7
+1654,2008-0194-USA,2008,Meteorological,Storm,Convective storm,Tornado,"Kansas, Maryland, Missouri, North Carolina, Virginia, Texas, Oklahoma, Georgia, Arkansas provinces","Cold front meeting warm, moist air",,,2008,5,10,2008,5,12,22
+1655,2008-0039-USA,2008,Meteorological,Storm,Convective storm,Tornado,"Tennessee, Arkansas, Kentucky, Mississippi, Alabama, Indiana, Texas, Illinois, Ohio, Missouri provinces",,,,2008,2,5,2008,2,6,59
+1656,2008-0115-USA,2008,Meteorological,Storm,Convective storm,Tornado,"Fulton, DeKalb, Cobb, Clayton, Gwinnett districts (Georgia province)",,,,2008,3,14,2008,3,14,2
+1657,2008-0304-USA,2008,Meteorological,Storm,Tropical cyclone,,"Panama city beach (Bay district, Florida province), Aransas, Bexar, Brooks, Calhoun, Cameron, Hidalgo, Jim Wells, Kenedy, Kleberg, Nueces, Refugio, San Patricio, Starr, Victoria, Willacy districts (Texas province)",,,,2008,7,23,2008,7,23,
+1659,2008-0131-USA,2008,Hydrological,Flood,Riverine flood,,"Missouri, Mississippi, Arkansas, Indiana, Illinois, Ohio, Kentucky, Oklahoma, Iowa, Wisconsin, Texas provinces",Rain and snowmelt,36.23,-89.15,2008,3,17,2008,4,20,18
+1660,2008-0627-USA,2008,Hydrological,Flood,Riverine flood,,"Illinois, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Wisconsin provinces",,,,2008,6,9,2008,6,30,24
+1664,2008-0338-USA,2008,Meteorological,Storm,Tropical cyclone,,"Florida, Georgia, Alabama, Mississippi provinces",,,,2008,8,20,2008,8,28,12
+1665,2008-0384-USA,2008,Meteorological,Storm,Tropical cyclone,,"Galveston, Brazoria, Harris, Chambers, Jefferson districts (Texas province), Louisiana, Tennessee, Arkansas, Ohio, Indiana, Illinois, Missouri, Kentucky, Pennsylvania, Michigan provinces",,35.05,-90.45,2008,9,12,2008,9,16,82
+1674,2008-0599-USA,2008,Meteorological,Storm,Convective storm,Tornado,"Arkansas, Illinois, Indiana, Kentucky, Missouri, New York, Ohio, Tennessee, Alabama, Mississippi provinces",,,,2008,1,29,2008,1,30,4
+1675,2008-0601-USA,2008,Meteorological,Storm,Convective storm,Tornado,"Arkansas, Oklahoma, Texas provinces",,,,2008,4,9,2008,4,11,3
+1676,2008-0645-USA,2008,Meteorological,Storm,Convective storm,Tornado,Suffolk district (Virginia province),,,,2008,4,28,2008,4,28,
+1677,2008-0654-USA,2008,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Massachusetts, New York, Maine, New Hampshire, Vermont provinces",,,,2008,12,11,2008,12,22,5
+1678,2008-0563-USA,2008,Meteorological,Extreme temperature,Severe winter conditions,Snow/Ice,"Maine, Massachusetts, New Hampshire, New York, Vermont provinces",,,,2008,12,11,2008,12,14,
+1679,2008-0099-USA,2008,Geophysical,Earthquake,Ground movement,,"Wells city (Elko district, Nevada province)",,41.1444,-114.8721,2008,2,21,2008,2,21,
+1680,2008-0638-USA,2008,Hydrological,Flood,Riverine flood,,"Orting town (Pierce district, Washington province), Chehalus town (Lewis district, Washington), Oregon province",Heavy rains,42.84,-123.77,2008,12,29,2009,1,16,
+1681,2008-0600-USA,2008,Meteorological,Storm,Extra-tropical storm,,"Arkansas, California, Colorado, Illinois, Indiana, Kansas, Michigan, Missouri, New York, Ohio, Oklahoma, Oregon, Washington, Wisconsin provinces",,,,2008,1,4,2008,1,9,12
+1682,2008-0352-USA,2008,Meteorological,Storm,Tropical cyclone,,"Louisiana, Mississippi, Texas, Alabama provinces",,,,2008,9,1,2008,9,1,43
+1683,2008-0378-USA,2008,Meteorological,Storm,Tropical cyclone,,"Florida, North Carolina, Maryland provinces",,,,2008,8,28,2008,8,28,7
+1684,2008-0253-USA,2008,Climatological,Wildfire,Forest fire,,California province,"Lightening, drought, wind",,,2008,6,20,2008,7,9,1
+1685,2008-0524-USA,2008,Climatological,Wildfire,,,"Los Angeles, Orange, Riverside, Santa Barbara districts (California province)",,,,2008,11,13,2008,11,18,
+1687,2009-0244-USA,2009,Meteorological,Storm,Convective storm,Severe storm,"Dallas, Tarrant, Harris, Galveston, Swisher districts (Texas province)",,,,2009,4,16,2009,4,18,6
+1688,2009-0140-USA,2009,Meteorological,Storm,Convective storm,Tornado,"Texas, Oklahoma, Arkansas, Alabama, Georgia, Kentucky, Louisiana, Missouri, South Carolina, Tennessee provinces",,,,2009,4,9,2009,4,10,9
+1689,2009-0184-USA,2009,Hydrological,Flood,Riverine flood,,"Virginia, Kentucky provinces",Heavy rain,37.66,-81.28,2009,5,3,2009,5,10,
+1693,2009-0106-USA,2009,Hydrological,Flood,Riverine flood,,"North Dakota, Minnesota provinces","Snowmelt, hevay rain",48.25,-97.03,2009,3,24,2009,4,20,2
+1694,2009-0190-USA,2009,Hydrological,Flood,Riverine flood,,Florida province,Heavy rain,30.84,-85.23,2009,4,6,2009,4,9,
+1695,2009-0056-USA,2009,Meteorological,Extreme temperature,Cold wave,,"Texas, Pennsylvania, Oklahoma, Kentucky, Missouri, Arkansas, District of Columbia provinces",,,,2009,1,26,2009,1,28,58
+1696,2009-0178-USA,2009,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,Santa Barbara district (California province),Record temperatures and strong winds,,,2009,5,5,2009,5,11,
+1777,2009-0601-USA,2009,Meteorological,Storm,Convective storm,Tornado,"Texas, Nebraska, Oklahoma, Kansas, North Carolina, Alabama, Missouri, Arkansas, Pennsylvania, Tennessee, Mississippi, South Carolina, Kentucky provinces",,,,2009,6,10,2009,6,18,1
+1783,2009-0644-USA,2009,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Texas, Missouri, Louisiana provinces",,,,2009,3,26,2009,3,28,6
+1784,2009-0603-USA,2009,Meteorological,Storm,Convective storm,Severe storm,"Denver, Wheat Ridge, Lakewood, Arvada areas (Denver district, Colorado province)",,,,2009,7,20,2009,7,21,1
+1785,2009-0287-USA,2009,Meteorological,Storm,Convective storm,Tornado,"Ohio, Oklahoma, Kentucky, Texas, Tennessee, Pennsylvania, West Virginia, Maryland, Washington provinces",,,,2009,2,10,2009,2,13,16
+1787,2009-0477-USA,2009,Meteorological,Storm,Tropical cyclone,,"Kent, Sussex districts (Delaware province), Atlantic, Burlington, Cape May, Cumberland, Monmouth, Ocean districts (New Jersey province), Virginia, New York, North Carolina, Pennsylvannia provinces",,,,2009,11,9,2009,11,10,6
+1790,2009-0342-USA,2009,Meteorological,Storm,Tropical cyclone,,Maine province,,,,2009,8,23,2009,8,23,3
+1810,2009-0604-USA,2009,Meteorological,Storm,Convective storm,Tornado,"Illinois, Missouri provinces",,,,2009,5,7,2009,5,9,7
+1811,2009-0599-USA,2009,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Alabama, North Carolina, South Dakota, Pennsylvania, Texas, Oklahoma provinces",,,,2009,12,23,2009,12,25,19
+1812,2009-0405-USA,2009,Hydrological,Flood,Riverine flood,,"Douglas, Floyd, Carroll, Fulton, DeKalb, Cobb, Clayton, Gwinnett districts (Georgia province), Alabama, North Carolina,Tennessee provinces",Heavy rains,,,2009,9,20,2009,9,21,9
+1813,2009-0349-USA,2009,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Los Angeles, Monterey districts (California province)",,,,2009,7,7,2009,10,27,2
+1819,2010-0690-USA,2010,Meteorological,Storm,Convective storm,Severe storm,"Colorado, Georgia, Illinois, Kansas, North Carolina, New Mexico, Oklahoma, South Carolina provinces",,,,2010,5,10,2010,5,16,20
+1831,2010-0196-USA,2010,Meteorological,Storm,Convective storm,Tornado,Oklahoma province,,,,2010,5,12,2010,5,16,5
+1833,2010-0468-USA,2010,Meteorological,Storm,Tropical cyclone,,"North Carolina, Virginia, Maryland, Massachusetts, Rhode Island provinces",,,,2010,9,3,2010,9,3,1
+1839,2010-0689-USA,2010,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Montana, Nebraska provinces",,,,2010,6,17,2010,6,20,20
+1840,2010-0187-USA,2010,Meteorological,Storm,Convective storm,Severe storm,"Alabama, Arkansas, Mississippi, Kentucky, Tennessee provinces",Heavy rains,36.07,-87.28,2010,4,30,2010,5,3,30
+1841,2010-0612-USA,2010,Meteorological,Storm,Convective storm,,"Connecticut, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island provinces",,,,2010,3,13,2010,3,15,11
+1842,2010-0522-USA,2010,Meteorological,Storm,Tropical cyclone,,Texas province,,28.89,-97.06,2010,9,7,2010,9,11,8
+1871,2010-0163-USA,2010,Meteorological,Storm,Convective storm,Tornado,"Yazoo district (Mississippi province), Alabama, Louisiana, Arkansas, Georgia, Tennessee provinces",,,,2010,4,24,2010,4,24,12
+1872,2010-0663-USA,2010,Meteorological,Storm,Convective storm,Tornado,"Arkansas, Missouri, Illinois provinces",,,,2010,12,31,2011,1,1,8
+1873,2010-0045-USA,2010,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New Jersey, Pennsylvania, Maryland, North Carolina, Delaware, District of Columbia, Virginia provinces",,,,2010,2,5,2010,2,11,2
+1874,2010-0089-USA,2010,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, District of Columbia, New Jersey, Pennsylvania, New Hampshire, Massachusetts, Maine, Connecticut, Rhode Island, Vermont provinces",,,,2010,2,23,2010,2,28,1
+1875,2010-0655-USA,2010,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Boston city (Suffolk district, Massachusetts province), Philadelphia district (Pennsylvania province), Fulton, DeKalb, Cobb, Clayton, Gwinnett districts (Georgia province), New York, North Carolina, Delaware, Maryland, Rhode Island, Virginia provinces",,,,2010,12,26,2010,12,26,
+1876,2010-0027-USA,2010,Geophysical,Earthquake,Ground movement,,"Ferndale, Eureka cities (Humboldt district, California province)",,40.652,-124.6925,2010,1,10,2010,1,10,
+1877,2010-0162-USA,2010,Hydrological,Flood,Riverine flood,,Rhode Island province,Hevay rains,39.48,-74.87,2010,3,27,2010,3,31,
+1878,2010-0225-USA,2010,Hydrological,Flood,Riverine flood,,"Arkansas, Oklahoma provinces",Heavy rains,34.58,-95.1,2010,6,10,2010,6,11,20
+1879,2010-0651-USA,2010,Hydrological,Flood,Riverine flood,,"Kern, Orange, Riverside, San Bernardino, San Luis Obispo, Tulare districts (California province), Utah, Nevada, Arizona provinces",Heavy rains,38.8497,-120.73,2010,12,19,2010,12,19,
+1882,2011-0195-USA,2011,Meteorological,Storm,Convective storm,Tornado,"Illinois, Massachusetts, Michigan, Minnesota, North Dakota provinces",,,,2011,5,29,2011,6,1,3
+1891,2011-0029-USA,2011,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Oklahoma, Texas, Missouri, Wisconsin, Minnesota, Colorado, Wyoming, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, New York, New Jersey, Pennsylvania provinces",,,,2011,1,31,2011,2,2,39
+1895,2011-0145-USA,2011,Meteorological,Storm,Convective storm,Tornado,"Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee, Oklahoma provinces",,,,2011,4,22,2011,4,29,354
+1896,2011-0328-USA,2011,Meteorological,Storm,Tropical cyclone,,"New York, New Jersey, Pennsylvania, North Carolina, Virginia, Maryland, District of Columbia, Connecticut, Florida provinces",,40.186,-70.06,2011,8,27,2011,9,13,46
+1907,2011-0134-USA,2011,Meteorological,Storm,Convective storm,Tornado,"Mississippi, Alabama, Oklahoma, Texas, North Carolina, Kansas provinces",,,,2011,4,14,2011,4,16,46
+1908,2011-0172-USA,2011,Meteorological,Storm,Convective storm,Tornado,"Jasper, Newton districts (Missouri province)",,,,2011,5,20,2011,5,25,176
+1909,2011-0189-USA,2011,Meteorological,Storm,Convective storm,Tornado,"Missouri, Kansas, Texas provinces",,,,2011,5,24,2011,5,24,11
+1910,2011-0166-USA,2011,Hydrological,Flood,Riverine flood,,"Illinois, Missouri, Kentucky, Tennessee, Mississppi provinces",Heavy rains and melting snow,34.1,-90.83,2011,5,1,2011,5,24,1
+1911,2011-0425-USA,2011,Hydrological,Flood,Riverine flood,,"Charlotte town (Mecklenburg district, North Carolina province)",Torrential rains,35.806,-79.37,2011,8,6,2011,8,9,2
+1912,2011-0264-USA,2011,Meteorological,Extreme temperature,Heat wave,,"New York, Washington, Texas, Ohio, Maine, Iowa, Illinois, Minnesota, Nebraska, Wisconsin, South Dakota provinces",,,,2011,7,19,2011,7,22,22
+1913,2011-0349-USA,2011,Climatological,Wildfire,Forest fire,,Bastrop district (Texas province),"Drought, high temperatures and strong winds",,,2011,9,4,2011,9,9,4
+1914,2011-0140-USA,2011,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,Texas province,,,,2011,4,9,2011,4,30,2
+2020,2011-0610-USA,2011,Hydrological,Flood,Riverine flood,,"Mississippi, Ohio provinces",Torrentail rains,,,2011,4,18,2011,5,23,9
+2021,2011-0456-USA,2011,Meteorological,Storm,Tropical cyclone,,"Louisiana, Mississippi, Alabama, Texas, New York, Pennsylvania, District of Columbia, Georgia, Maryland, Tennessee, Virginia provinces",,,,2011,9,4,2011,9,9,15
+2031,2011-0444-USA,2011,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, New Jersey, Connecticut, Massachusetts provinces",,,,2011,10,29,2011,10,31,29
+2032,2011-0527-USA,2011,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Colorado, New Mexico provinces",,,,2011,12,20,2011,12,20,6
+2033,2011-0607-USA,2011,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",,,,2011,1,7,2011,1,12,11
+2034,2011-0608-USA,2011,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Tennessee provinces",,,,2011,1,17,2011,1,24,10
+2035,2011-0646-USA,2011,Hydrological,Flood,Riverine flood,,"Montana, North Dakota, South Dakota, Iowa, Missouri provinces",Heavy snowmelt and rains,,,2011,5,15,2011,6,30,5
+2036,2011-0609-USA,2011,Meteorological,Storm,Convective storm,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming provinces",,,,2011,4,3,2011,4,5,9
+2037,2011-0611-USA,2011,Meteorological,Storm,Convective storm,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, New York, New Jersey, Pennsylvania provinces",,,,2011,8,13,2011,8,14,7
+2038,2011-0639-USA,2011,Climatological,Wildfire,Forest fire,,"Arizona, Minnesota, Texas, Florida provinces",Drought conditions and strong winds,,,2011,5,29,2011,6,23,2
+2039,2011-9363-USA,2011,Climatological,Drought,Drought,,"Texas, Oklahoma, New Mexico, Arizona, Kansas, Louisiana provinces",,,,2011,1,,2011,11,,
+2043,2012-0410-USA,2012,Meteorological,Storm,Tropical cyclone,,"New York, New Jersey, Pennsylvania, Connecticut, Ohio, Delaware, Rhode Island, Maryland, Massachusetts, Maine, New Hampshire, North Carolina, Vermont, Virginia, District of Columbia, West Virginia provinces",,,,2012,10,28,2012,10,28,54
+2046,2012-0060-USA,2012,Meteorological,Storm,Convective storm,Tornado,"Alabama, Tennessee, Illinois, Kentucky, Indiana, Ohio, Georgia, Florida, Mississippi, North Carolina, Virginia provinces",,,,2012,3,2,2012,3,4,41
+2050,2012-9235-USA,2012,Climatological,Drought,Drought,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",,,,2012,6,,2012,,,
+2051,2012-9489-USA,2012,Climatological,Drought,Drought,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Arizona, California, Colorado, Nevada, New Mexico, Oklahoma, Texas, Utah provinces",Severe lack of rainand extreme temperature,,,2012,6,,2012,12,,
+2052,2012-0313-USA,2012,Meteorological,Storm,Tropical cyclone,,"Mississippi, Louisiana provinces",,30.503,-89.35,2012,8,28,2012,8,29,1
+2063,2012-0234-USA,2012,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,District of Columbia province,,,,2012,6,30,2012,6,30,1
+2064,2012-0612-USA,2012,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Oklahoma, Kansas, Minnesota, Texas, Pennsylvania, New York provinces",,,,2012,5,25,2012,5,30,
+2065,2012-0613-USA,2012,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Colorado, Wyoming provinces",,,,2012,6,6,2012,6,7,
+2066,2012-0614-USA,2012,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Texas, New Mexico provinces",,,,2012,6,11,2012,6,13,
+2067,2012-0615-USA,2012,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Ohio, Minnesota, Pennsylvania, Michigan, Wisconsin provinces",,,,2012,7,2,2012,7,4,1
+2068,2012-0616-USA,2012,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Missouri, Pennsylvania, Virginia, Arkansas, Oklahoma, Maryland, New York provinces",,,,2012,9,7,2012,9,9,5
+2069,2012-0010-USA,2012,Meteorological,Storm,Convective storm,Tornado,"Jefferson, Chilton districts (Alabama province)",,,,2012,1,22,2012,1,23,2
+2070,2012-0055-USA,2012,Meteorological,Storm,Convective storm,Tornado,"Nebraska, Kansas, Missouri, Illinois, Indiana, Kentucky provinces",,,,2012,2,28,2012,2,29,14
+2071,2012-0122-USA,2012,Meteorological,Storm,Convective storm,Tornado,"Dallas, Tarrant districts (Texas province)",,,,2012,4,2,2012,4,3,
+2072,2012-0156-USA,2012,Meteorological,Storm,Convective storm,Tornado,"Oklahoma, Kansas, Iowa, Nebraska, South Dakota, Minnesota provinces",,,,2012,4,14,2012,4,15,6
+2073,2012-0486-USA,2012,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Wisconsin, Iowa, Nebraska, Kansas provinces",,,,2012,12,19,2012,12,21,7
+2074,2012-0493-USA,2012,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Texas, Louisiana, Alabama, Mississippi, Arkansas, Indiana, Pennsylvania, Virginia, New York, New Jersey provinces",,,,2012,12,25,2012,12,27,17
+2075,2012-0611-USA,2012,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Oregon, Washington provinces",,,,2012,1,18,2012,1,23,3
+2076,2012-0503-USA,2012,Meteorological,Storm,Convective storm,Severe storm,"Ohio, Virginia, Maryland, West Virginia, District of Columbia, Illinois, Indiana, Kentucky, New Jersey, North Carolina, South Carolina provinces",,,,2012,6,28,2012,7,2,28
+2077,2012-0601-USA,2012,Meteorological,Storm,Convective storm,Severe storm,"Missouri, Illinois, Kentucky, Texas, Indiana provinces",,,,2012,4,28,2012,4,29,1
+2078,2012-0177-USA,2012,Hydrological,Flood,Riverine flood,,"Bay, Calhoun, Escambia, Franklin, Gadsden, Gulf, Holmes, Jackson, Jefferson, Leon, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, Washington districts (Florida province), Alabama, Mississippi, Louisiana provinces",Torrential rain,30.3632,-58.51,2012,6,9,2012,6,12,2
+2079,2012-0176-USA,2012,Meteorological,Storm,Tropical cyclone,,"Bay, Calhoun, Escambia, Franklin, Gadsden, Gulf, Holmes, Jackson, Jefferson, Leon, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, Washington, Brevard, Citrus, Hardee, Hernando, Hillsborough, Indian River, Lake, Manatee, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Volusia districts",,28.9635,-82.5,2012,6,22,2012,6,27,9
+2080,2012-0214-USA,2012,Meteorological,Extreme temperature,Heat wave,,"District of Columbia, Iowa, Virginia, North Carolina provinces",,,,2012,6,30,2012,7,19,123
+2081,2012-0232-USA,2012,Climatological,Wildfire,,,"Colorado Springs city (El Paso district, Colorado province)",,,,2012,6,23,2012,7,10,2
+2082,2012-0542-USA,2012,Climatological,Wildfire,,,"Cleveland, Creek, Oklahoma, Payne districts (Oklahoma province)",,,,2012,8,3,2012,8,8,1
+2090,2013-0334-USA,2013,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Colorado, Wyoming, Montana provinces",,,,2013,8,2,2013,8,3,
+2092,2013-0354-USA,2013,Hydrological,Flood,Riverine flood,,"Lafayette, Lyons, Longmont towns (Boulder district, Colorado province), Larimer, El Paso, Broomfield districts (Colorado province), New Mexico province",,,-105.14,2013,9,12,2013,9,19,9
+2095,2013-0142-USA,2013,Meteorological,Storm,Convective storm,Tornado,"Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, New York, New Jersey, Pennsylvania provinces",,,,2013,5,18,2013,5,22,29
+2096,2013-0183-USA,2013,Meteorological,Storm,Convective storm,Tornado,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",,,,2013,5,15,2013,5,17,6
+2097,2013-0439-USA,2013,Meteorological,Storm,Convective storm,Tornado,"Illinois, Indiana, Kentucky, Ohio, Michigan, Wisconsin, Missouri provinces",,,,2013,11,16,2013,11,18,11
+2098,2013-0579-USA,2013,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Texas, Oklahoma, Louisiana provinces",,,,2013,2,24,2013,2,25,1
+2099,2013-0054-USA,2013,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",,,,2013,2,8,2013,2,9,15
+2100,2013-0472-USA,2013,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Oklahoma, Texas, California, New Mexico, Arizona provinces",,,,2013,11,24,2013,11,24,14
+2101,2013-0118-USA,2013,Meteorological,Storm,Convective storm,Severe storm,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin provinces",,,,2013,4,17,2013,4,19,3
+2112,2013-0211-USA,2013,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, New York, New Jersey, Pennsylvania, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",,,,2013,6,12,2013,6,13,4
+2113,2013-0013-USA,2013,Meteorological,Storm,Convective storm,Tornado,"Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Colorado, Kansas, Montana, New Mexico, Oklahoma, Texas, Wyoming provinces",,,,2013,1,29,2013,1,30,3
+2114,2013-0184-USA,2013,Meteorological,Storm,Convective storm,Tornado,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",,,,2013,5,26,2013,6,6,27
+2115,2013-0055-USA,2013,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"South Dakota, North Dakota, Nebraska, Minnesota, Alabama, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",,,,2013,2,9,2013,2,11,1
+2116,2013-0550-USA,2013,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oklahoma, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Vermont, Virginia, West Virginia provinces",,,,2013,12,1,2013,12,9,20
+2117,2013-0528-USA,2013,Meteorological,Extreme temperature,Severe winter conditions,Snow/Ice,"Michigan, Ohio, New York, Vermont, Maine, Kansas, Iowa, Texas, Wisconsin, Illinois, Minnesota, Arkansas, Louisiana, Mississippi, Kentucky provinces",,,,2013,12,19,2013,12,22,19
+2118,2013-0117-USA,2013,Meteorological,Storm,Convective storm,Severe storm,"California, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia provinces",,,,2013,4,7,2013,4,11,4
+2119,2013-0548-USA,2013,Meteorological,Storm,Convective storm,Severe storm,"Louisiana, South Carolina, Mississippi provinces",,,,2013,3,18,2013,3,19,2
+2120,2013-0254-USA,2013,Hydrological,Flood,Riverine flood,,"Cleveland, Lincoln, Catawba districts (North Carolina province), Pennsylvania province",Slow moving storm system,,,2013,7,27,2013,7,28,2
+2121,2013-0277-USA,2013,Hydrological,Flood,Riverine flood,,"Missouri, Kansas, Tennessee, Arkansas, Oklahoma provinces",Torrential rains,38.2138,-94.15,2013,8,5,2013,8,12,3
+2122,2013-0286-USA,2013,Hydrological,Flood,Riverine flood,,"San Antonio town (Bexar district, Texas province)",Heavy rains,28.899,-98.89,2013,5,25,2013,5,28,3
+2123,2013-0291-USA,2013,Hydrological,Flood,Riverine flood,,"Iowa, Michigan, Minnesota, Wisconsin provinces",Heavy rains,38.8278,-88.64,2013,4,22,2013,4,29,5
+2124,2013-0510-USA,2013,Hydrological,Flood,Riverine flood,,Austin district (Texas province),Torrentiak rain,30.66,-96.01,2013,10,31,2013,11,10,4
+2125,2013-0558-USA,2013,Hydrological,Flood,Riverine flood,,"Nelson, Carroll districts (Kentucky province)",Heavy rains,37.5597,-86.79,2013,12,22,2013,12,31,5
+2126,2013-0209-USA,2013,Climatological,Wildfire,Forest fire,,Los Angeles district (California province),"Hot temperatures, gusty winds, dry forest conditions",,,2013,5,30,2013,6,8,
+2127,2013-0210-USA,2013,Climatological,Wildfire,Forest fire,,"Black Forest area (El Paso district, Colorado province)",,,,2013,6,6,2013,6,20,2
+2128,2013-0212-USA,2013,Climatological,Wildfire,Forest fire,,"Yarnell area (Yavapai district, Arizona province)",,,,2013,6,28,2013,7,12,19
+2129,2013-0315-USA,2013,Climatological,Wildfire,,,"Yosemite valley (Mariposa district, California province)",,,,2013,8,3,2013,9,1,
+2130,2013-0404-USA,2013,Climatological,Wildfire,,,Shasta district (California province),,,,2013,9,9,2013,9,15,1
+2132,2014-0126-USA,2014,Meteorological,Storm,Convective storm,Severe storm,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Mississippi, Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Florida, Alabama, New York, New Jersey, Pennsylvania provinces",,,,2014,4,27,2014,5,1,40
+2134,2014-0048-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania provinces",,,,2014,2,2,2014,2,6,9
+2135,2014-0072-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"District of Columbia, New York, Georgia, South Carolina, North Carolina, Pennsylvania provinces",,,,2014,2,11,2014,2,14,25
+2139,2014-0052-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, Massachusetts, New Hampshire, Vermont, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Maryland provinces",,,,2014,1,1,2014,1,5,16
+2140,2014-0053-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Georgia, Alabama, Mississippi, Louisiana, North Carolina, South Carolina provinces",,,,2014,1,26,2014,1,29,13
+2141,2014-0100-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"California, Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Tennessee, New York, New Jersey, Pennsylvania provinces",,,,2014,2,28,2014,3,4,12
+2142,2014-0095-USA,2014,Hydrological,Landslide,Landslide,,"Oso village (Snohomish district, Washington province)",Heavy rains and small earthquake,,,2014,3,22,2014,3,22,43
+2143,2014-0009-USA,2014,Meteorological,Extreme temperature,Cold wave,,"New York, Minnesota, Georgia, Maryland, Alaska, Alabama, Mississippi, Louisiana, North Carolina, South Carolina, Ohio, Indiana, Illinois, Pennsylvania, Michigan, New Jersey, Virginia, Kentucky, Missouri provinces",,,,2014,1,5,2014,1,8,21
+2144,2014-9023-USA,2014,Climatological,Drought,Drought,,San Joaquin district (California province),,,,2014,1,,2014,12,,
+2278,2003-0830-USA,2003,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Arkansas, Texas provinces",,,,2003,2,26,2003,2,26,14
+2279,2014-0482-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Los Angeles, San Diego districts (California province), Oregon province",,,,2014,12,10,2014,12,17,3
+2280,2014-0263-USA,2014,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Colorado, Kansas, Montana, Nebraska, New Mexico, North Dakota, Oklahoma, Texas, Wyoming, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Ohio, South Dakota, Wisconsin, New York, New Jersey, Pennsylvania, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Tennessee provinces",,,,2014,7,26,2014,7,27,
+2281,2014-0444-USA,2014,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Arkansas, Louisiana, Alabama, Mississippi, Kentucky, Illinois, Texas provinces",,,,2014,10,12,2014,10,14,2
+2282,2014-0318-USA,2014,Geophysical,Earthquake,Ground movement,,"San Francisco Bay (San Francisco district) , Napa Valley (Napa district) ; Sonoma, Solano district (California province) ; Vallejo, Mare Island cities (Solano district, California province)",,38.2151667,-122.3123333,2014,8,24,2014,8,24,1
+2283,2014-0491-USA,2014,Hydrological,Flood,Flash flood,,"Orange, Mariposa, Tuolumne, Los Angeles, San Francisco, Sacaramento districts (California province)","Heavy rains, strong storm system",,,2014,12,2,2014,12,5,
+2284,2014-0192-USA,2014,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, North Dakota, Ohio, South Dakota, Wisconsin, Kansas, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Wyoming, Arizona, Idaho, Montana, Nevada, New Mexico, Utah, Wyoming, New York, New Jersey, Pennsylvania, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut provinces",,,,2014,5,18,2014,5,23,
+2285,2014-0540-USA,2014,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Blair area (Washington district, Nebraska province), Iowa, Kansas, Arkansas, Wyoming provinces",,,,2014,6,3,2014,6,6,2
+2293,2014-0459-USA,2014,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, New Hampshire, Michigan provinces",,,,2014,11,15,2014,11,19,13
+2294,2014-0317-USA,2014,Hydrological,Flood,Riverine flood,,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvanie, Maryland provinces",Excessive rainfall,,,2014,8,11,2014,8,13,2
+2295,2014-0310-USA,2014,Meteorological,Storm,Tropical cyclone,,Hawaii province,,,,2014,8,8,2014,8,10,1
+2296,2014-0165-USA,2014,Climatological,Wildfire,Forest fire,,"Hutchinson district (Texas province), San Diego district (California province)","Excessive heat, drougth and winds",,,2014,5,11,2014,5,20,2
+2297,2015-0211-USA,2015,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Texas, Oklahoma, Kansas, Nebraska, Missouri, Colorado, Minnesota, South Dakota provinces",,,,2015,5,6,2015,5,13,4
+2298,2015-0488-USA,2015,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Austin, Houston districts (Texas province), Lousiana province",,,,2015,10,29,2015,11,3,6
+2299,2015-0155-USA,2015,Meteorological,Storm,Convective storm,Tornado,"Texas, Louisiana, Alabama, Mississippi, Kentucky, Georgia, Florida provinces",,,,2015,4,24,2015,4,28,4
+2300,2015-0180-USA,2015,Meteorological,Storm,Convective storm,Tornado,"Kansas, Nebraska, Texas, Oklahoma, Minnesota, Iowa, Wisconsin provinces",,,,2015,5,3,2015,5,5,1
+2301,2015-0245-USA,2015,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Colorado, Illinois provinces",,,,2015,6,3,2015,6,8,
+2302,2015-0138-USA,2015,Meteorological,Storm,Convective storm,Tornado,"Fairdale area (DeKalb district, Illinois province), Rochelle town (Ogle district, Illinois province), Missouri, North Carolina, Indiana, Ohio, Kentucky, Texas, Iowa, Arkansas, Michigan, West Virginia, Wisconsin, Pennsylvania, Oklahoma, Kansas, Tennessee provinces",,,,2015,4,7,2015,4,10,3
+2303,2015-0326-USA,2015,Meteorological,Storm,Convective storm,Severe storm,"Illinois, Indiana, Wisconsin, Minnesota, Ohio, Iowa, Kentucky, Tennessee, Missouri, South Carolina, North Carolina",,,,2015,7,12,2015,7,14,4
+2305,2015-0401-USA,2015,Climatological,Wildfire,,,"California, Idaho, Montana, Oregon, Washington provinces","High temperature, Ligthning",,,2015,8,13,2015,8,31,4
+2306,2015-0123-USA,2015,Meteorological,Storm,Convective storm,Tornado,"Moore area (Cleveland district, Oklahoma province), Osage, Tulsa districts (Oklahoma province), Kansas, Missouri, Arkansas provinces",,,,2015,3,25,2015,3,26,1
+2307,2015-0400-USA,2015,Meteorological,Storm,Convective storm,Severe storm,"Chicago, Lincolnwood towns (Cook district, Illinois province), Wood Dale town (DuPage district, Illinois province), Lancaster town (Coos district, New Hampshire province), Indiana, Ohio, Connecticut, Michigan, Massachusetts, Wisconsin, Rhode Island, Maine, New York provinces",,,,2015,8,2,2015,8,4,4
+2308,2015-0565-USA,2015,Hydrological,Flood,,,"Mississippi, Missouri, Kentucky, Tennessee, Arkansas, Alabama, Illinois, Indiana, Louisiana provinces",Heavy rains,356.658,-910.83,2015,12,15,2016,1,6,31
+2309,2015-0046-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Tennessee, Kansas, District of Columbia, Boston, Ohio, Virginia, Georgia, North Carolina, South Carolina provinces",,,,2015,2,16,2015,2,22,10
+2310,2015-0072-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Illinois, Michigan, Massachusetts, New York, Connecticut, Indiana provinces",,,,2015,1,31,2015,2,4,22
+2311,2015-0558-USA,2015,Meteorological,Storm,Convective storm,Tornado,"Dallas, Ellis, Collin districts (Texas province), Mississippi, Tennessee, Arkansas, Alabama, Georgia, New Mexico, Missouri, Kentucky, Indiana, Oklahoma, Illinois provinces",,,,2015,12,26,2015,12,30,45
+2312,2015-0531-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Texas, Kansas, Oklahoma provinces",Heavy rain,,,2015,11,25,2015,12,4,18
+2313,2015-0459-USA,2015,Meteorological,Storm,Tropical cyclone,,"South Carolina, North Carolina",,335.033,-804.93,2015,10,1,2015,10,13,21
+2314,2015-0026-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island",,,,2015,1,26,2015,1,28,2
+2315,2015-0212-USA,2015,Hydrological,Flood,Flash flood,,"Texas, Oklahoma, Colorado, Arkansas, Kansas, Louisiana, Georgia, Ohio, South Carolina",Heavy rain,34.1936,-97.99,2015,5,23,2015,5,30,32
+2326,2015-0177-USA,2015,Meteorological,Storm,Convective storm,Tornado,"Nashville town (Howard district, Arkansas province); Van town (Van Zandt district, Texas province), Delmond town (Douglas district, South Dakota province), Colorado, Oklahoma, Kansas, Iowa provinces",,,,2015,5,6,2015,5,13,6
+2327,2015-0025-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Illinois, Wisconsin, Pennsylvania provinces",,,,2015,1,6,2015,1,11,15
+2328,2015-0073-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Massachusetts, New York, Tennessee, Maryland, Virginia, Pennsylvania, Kentucky, North Carolina, Michigan, Rhode Island, New Hampshire, Ohio, South Carolina, Illinois, District of Columbia, Maine, Vermont provinces",,,,2015,2,16,2015,2,22,30
+2329,2015-0122-USA,2015,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New York, Pennsylvania, Kentucky, West Virginia, Arkansas provinces",,,,2015,3,3,2015,3,5,13
+2330,2015-0186-USA,2015,Hydrological,Flood,Flash flood,,"San Marcos area (Hays district, Texas province), Claremore area (Hays district, Oklahoma province)",Torrential rains,,,2015,5,24,2015,5,24,16
+2331,2015-0431-USA,2015,Hydrological,Flood,Flash flood,,"Hildale town (Washington district, Utah province), Las Vegas town (Clark district, Nevada province)",Torrentila rains,,,2015,9,14,2015,9,14,19
+2332,2015-0421-USA,2015,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Lake, Napa, Sonoma, Butte districts (California province)","High tempertaures, gusty winds, dry soil, vast swathes of dried vegetation and brush",,,2015,9,13,2015,9,20,4
+2333,2015-0613-USA,2015,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Amador, Calaveras (California)",,,,2015,9,9,2015,9,14,3
+2334,2015-9210-USA,2015,Climatological,Drought,Drought,,"California, Nevada, Oregon, Washington, Idaho, Montana, Utah, Arizona provinces",,,,2015,1,,2015,12,,
+2335,2015-0312-USA,2015,Climatological,Wildfire,,,"Lake, Napa, Solano, Yolo, Modoc, Colusa districts (California province)","Drought conditions, gusty winds, warm temperatures, lightening",,,2015,7,22,2015,8,13,1
+2336,2015-0399-USA,2015,Hydrological,Flood,,,"Hillsborough, Pasco, Pinellas, Dixie, Taylor districts (Florida province)",,,,2015,7,24,2015,8,5,
+2338,2016-0012-USA,2016,Meteorological,Storm,Convective storm,Severe storm,"Ventura, Orange, San Diego, Los Angles districts (California province)",Pacific storm systems fueled by El Nino,,,2016,1,4,2016,1,8,
+2339,2016-0203-USA,2016,Meteorological,Storm,Convective storm,,"Greenbier district (West Virginia province); Ohio, Indiana, Illinois, Wisconsin, Virginia",Torrential rain,349.452,805.54,2016,6,22,2016,6,26,25
+2341,2016-0125-USA,2016,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Kansas, Virginia, North Carolina, Georgia, Missouri, Illinois, West Virginia provinces",,,,2016,4,25,2016,5,4,6
+2342,2016-0322-USA,2016,Meteorological,Storm,Tropical cyclone,,"Georgia, Florida, South Carolina, New York, New Jersey; Cedar Key, Florida, Aurora (North Carolina); Virginia Tidewater region",,,,2016,9,1,2016,9,6,3
+2345,2016-0331-USA,2016,Hydrological,Flood,Riverine flood,,"Minnesota; Buffalo, Chippewa, Clark, Columbia, Crawford, Eau Claire, Jackson, La Crosse, Monroe, Richland, Sauk, Trempealeau, and Vernon (Wisconsin); Allamakee, Benton, Black Hawk, Bremer, Buchanan, Butler, Cedar, Chickasaw, Delaware, Floyd, Franklin, Linn, Wright (Iowa)",Excessive rains and thunderstorms,,,2016,9,19,2016,9,23,1
+2349,2016-0123-USA,2016,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Dallas-Fort Worth (Dallas, Wise, Tarrant, Denton, Parker), Wylie, Plano, Little Elm, Rockwall, Bettie, Emory in Collin, Denton, Upshur, Rockwall, Rains, San Antonio metro regions, Helotes, Alamo Heights, Kirby, Hollywood Park, Carrizo Springs, Terrel Hills (Bexar, Dimmit) (Texas), Oklahoma, Kansas, Missouri, Arkansas, Mississippi, Louisiana",,,,2016,4,10,2016,4,15,1
+2350,2016-0150-USA,2016,Meteorological,Storm,Convective storm,Tornado,"Oklahoma, Colorado, Nebraska, Kansas, Iowa, Missouri, Arkansas, Illinois, Kentucky, Texas,Tennessee provinces",,,,2016,5,7,2016,5,10,2
+2351,2016-0477-USA,2016,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Alabama, Mississippi, Tennessee, Georgia, South Carolina, Louisiana, North Carolina provinces",,,,2016,11,26,2016,12,1,8
+2352,2016-0086-USA,2016,Meteorological,Storm,Convective storm,Severe storm,"Texas, Mississippi, Louisiana, Florida provinces",,,,2016,3,17,2016,3,18,1
+2353,2016-0087-USA,2016,Meteorological,Storm,Convective storm,Severe storm,"Texas, Oklahoma, Louisiana, Arkansas, Mississippi, Alabama, Florida provinces",,,,2016,3,22,2016,3,25,
+2354,2016-0124-USA,2016,Hydrological,Flood,Flash flood,,"Fayette, Grimes, Harris, Parker counties, Houston districts (Texas province)",Torrential rrains,,,2016,4,16,2016,4,19,9
+2355,2016-0183-USA,2016,Hydrological,Flood,,,"Texas, Oklahoma, Arkansas, Kansas, Nebraska provinces",Heavy rain,308.574,-955.37,2016,5,27,2016,6,2,15
+2356,2016-0181-USA,2016,Meteorological,Storm,Convective storm,Hail,"Houston district (Texas province), Brenham city (Washington district, Texas province); Montana, Kansas, Missouri, Colorado",,,,2016,5,21,2016,5,28,9
+2357,2016-0085-USA,2016,Meteorological,Storm,Convective storm,Severe storm,"California, Lousiana, Texas, Arkansas, Tennessee, Mississippi, Alabama, Oklahoma, Kentucky, Ohio provinces",,,,2016,3,4,2016,3,12,7
+2358,2016-0010-USA,2016,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Washington D.C. (District of Columbia district, District of Columbia province), New York, New Jersey, Pennsylvania, Maryland, Virginia, Tennessee, Kentucky, Delaware, West Virginia, Georgia, North Carolina provinces",,,,2016,1,23,2016,1,26,50
+2359,2016-0051-USA,2016,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Alabama, Mississippi, Virginia provinces",,,,2016,2,22,2016,2,25,10
+2363,2016-0493-USA,2016,Geophysical,Earthquake,Ground movement,,Cushing (Oklahoma),,35.991,-96.803,2016,11,7,2016,11,7,
+2364,2016-0355-USA,2016,Meteorological,Storm,Tropical cyclone,,"Florida, Georgia, South Carolina, North Carolina, Virginia provinces",,,,2016,10,7,2016,10,9,49
+2365,2016-0206-USA,2016,Climatological,Wildfire,Forest fire,,California province,"Combination of heat, extented drought and gusty winds",,,2016,6,25,2016,6,26,
+2366,2016-0264-USA,2016,Climatological,Wildfire,Forest fire,,"Los Angeles, San Francisco districts (California province)",Drought,,,2016,7,24,2016,8,1,2
+2367,2016-0297-USA,2016,Climatological,Wildfire,Forest fire,,"Lower Lake, Clearlake (Lake district, California province)",,,,2016,8,13,2016,8,16,
+2368,2016-0463-USA,2016,Climatological,Wildfire,Forest fire,,"Gatlinburg city (Sevier district, Tennessee province)",,,,2016,11,28,2016,12,2,14
+2369,2016-0170-USA,2016,Hydrological,Flood,,,"Palestine city (Anderson district, Texas province), Houston district (Texas province)",,,,2016,4,30,2016,4,30,11
+2370,2016-0292-USA,2016,Hydrological,Flood,,,"Louisiana, Mississippi, Missouri, Illinois, Indiana; Allamakee, Clayton, Fayette, Howard, Winneshiek counties (Iowa)",Heavy rains,29.988,-91.8,2016,8,9,2016,8,16,13
+2542,2016-0521-USA,2016,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Northern (Missouri, Maryland, Oklahoma, Indiana, Michigan, New Mexico, Ohio, Virginia)",,,,2016,12,13,2016,12,19,22
+2543,2016-0550-USA,2016,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Texas, Oklahoma, Kansas, Missouri, Nebraska, Illinois, Indiana, Kentucky, Ohio",,,,2016,4,24,2017,4,28,6
+2544,2016-0552-USA,2016,Hydrological,Flood,,,"Texas, Louisiana (Shreveport, Haugton), Arkansas, Mississipi",,,,2016,3,8,2016,3,13,5
+2546,2017-0039-USA,2017,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"California, Nevada, Idaho, Colorado, Utah, Oregon states",,,,2017,1,6,2017,1,13,3
+2548,2017-0136-USA,2017,Hydrological,Flood,,,"East and West Canton (Van Zandt county) (Texas); Kampville (St Charles) (Missouri); Logan, Marion, Miles Station (Macoupin), Sumner (Lawrence), Pawnee (Sangamon) (Illinois); Natural Dam (Crawford), Mississipi, Clay (Arkansas); Oak ridge (Morehouse) (Louisiana) ; Labette (Kansas); Cameron (Le Flore) (Oklahoma); Goshen (Oldham) (Kentucky) ; Ohio; Pennsylvania; West Virginia ; Mississipi ; Alabama ; Tennesse ; Indiana",,,,2017,4,28,2017,5,1,20
+2549,2017-0336-USA,2017,Meteorological,Storm,Convective storm,Tornado,"Tulsa (Oklahoma); Texas, Louisiana, Kansas, Missouri",,,,2017,8,5,2017,8,8,
+2550,2017-0542-USA,2017,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Georgia, North Carolina, Maryland, Virginia, New York, New Jersey, Massachusetts, Michigan, Texas, Mississippi, Missouri",,,,2017,12,31,2018,1,5,22
+2551,2017-0062-USA,2017,Meteorological,Storm,Convective storm,,"Center and south of California (San Diego, Los Angeles, San Francisco, Sacramento)",,,,2017,2,16,2017,2,21,5
+2552,2017-0234-USA,2017,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Colorado, Kansas, Illinois, Indiana, Texas (Gregg County, Tenneryville, Easton, Longview City), Oklahoma (Okfuskee), Missouri (Bates, Carthage, Laclede, Pulaski, Phelps, Dent, Texas Counties, Crawfordsville, Phillipsburg, Edgar Springs, Salem, Evening Shade, Palace, Big Piney), Arkansas, Ohio, Kentucky, Tennessee (Millington, Memphis, Knoxville), Virginia, Louisiana (Natchitoches, DeSoto, Caddo, Caldwell, Franklin, LaSalle, Winn, Rapides, Catahoula, Concordia Parishes, Goldonna), North Dakota, South Dakota, Minnesota, Iowa, Ohio, Pennsylvania, New York, North Carolina (Sampson County, Salemburg, Clinton), South Carolina, Georgia, New Mexico",,,,2017,6,25,2017,6,29,
+2553,2017-0564-USA,2017,Meteorological,Storm,Convective storm,Tornado,"Texas (Justin in Denton, Collin, Rockwall, Lubbock counties, Seymour in Baylor, Dallas – Fort Worth metro area, Houston metro area), Oklahoma (El Reno in Canadian, Oklahoma city metro region, Caddo in Bryan, Cleveland South and East), Kansas (south), Kentucky, Tennessee, Mississippi, Alabama, Georgia, Indianapolis (Marion-IN)",,,,2017,3,25,2017,3,28,1
+2554,2017-0362-USA,2017,Meteorological,Storm,Tropical cyclone,,"Eastern Texas (Rockport, Corpus Chrsti, Port Lavaca, Cypress area of Houston, Houston metro area, Beaumont, Port Arthur, Angelina, Aransas, Atascosa, Austin, Bastrop, Bee, Bexar, Brazoria, Brazos, Burleson, Caldwell, Calhoun, Cameron, Chambers, Colorado, Comal, DeWitt, Fayette, Fort Bend, Galveston, Goliad, Gonzales, Grimes, Guadalupe, Hardin, Harris, Jackson, Jasper, Jefferson, Jim Wells, Karnes, Kerr, Kleberg, Lavaca, Lee, Leon, Liberty, Live Oak, Madison, Matagorda, Montgomery, Newton, Nueces, Orange, Polk, Refugio, Sabine, San Jacinto, San Patricio, Trinity, Tyler, Victoria, Walker, Waller, Washington, Wharton, Willacy, Wilson, San Augustine), Southwestern Louisiana (Acadia, Forrest, Iberia, Lafayette, Vernon, Beauregard, Calcasieu, Cameron (Hackberry), Jefferson Davis, Vermillion, Allen, Natchitoches, Rapides, Sabine)",,,,2017,8,25,2017,8,29,88
+2555,2017-0070-USA,2017,Meteorological,Storm,Convective storm,Tornado,"Illinois, Missouri, Indiana, Arkansas, Kentucky, Tennessee, Ohio , Georgia, Iowa, North Carolina, Virginia, Alabama, South Carolina, West Virginia, Michigan states",,,,2017,2,27,2017,3,2,4
+2556,2017-0203-USA,2017,Meteorological,Storm,Convective storm,Hail,"Colorado, New Mexico, Texas, Oklahoma",,,,2017,5,8,2017,5,11,
+2557,2017-0563-USA,2017,Meteorological,Storm,Convective storm,Hail,"Missouri (Oak Grove in Jackson County, Clay and Clinton (Trimble, Plattsburg, Lathrop) counties), Iowa (Centerville in Appanoose county, Muscatine), Minnesota (Sherburne, Freeborn counties, Lake Ann in Carver county), Kansas (Wabaunsee, Pottawatomie and Butler counties), Wisconsin, Arkansas, Oklahoma, Illinois, Mississipi, Michigan, New-York, Pennsylvania, Massachussets, Ohio, Nebraska, Indiana",,,,2017,3,6,2017,3,9,2
+2558,2017-0253-USA,2017,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Minnesota (Minneapolis – St. Paul, MN metro region-Twin Cities, Lac Qui Parle County, Montevideo (Chippewa), Slayton (Murray), St. Cloud (Stearns), Monticello (Wright), Coon Rapids (Anoka)), Wisconsin (St. Croix), Upper Peninsula (Michigan), North Dakota (Richardson, Stark County, Morton County, Milton and Langdon in Cavalier County), South Dakota (Deuel, Jerauld, Beadle, and Clark Counties)",,,,2017,6,9,2017,6,12,
+2559,2017-0512-USA,2017,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Missouri, Indiana (Bedford in Lawrence, Muncie in Delaware, Salem in Washington, Blackford, Jay), Ohio (Celina in Mercer, Williamsfield in Ashtabula, Clyde in Sandusky, Bloomingville in Erie , Republic, West Lodi in Seneca, Galion in Crawford, Steuben, Norwalk, Fitchville, Wakeman in Huron, Nova and Hayesville in Ashland, South Vienna in Wayne, Calcutta in Columbiana, Clark), Pennsylvania (Erie in Erie), Illinois (Noble in Richland)",,,,2017,11,5,2017,11,6,
+2560,2017-0381-USA,2017,Meteorological,Storm,Tropical cyclone,,"Keys islands, Monroe, South Florida, Jacksonville (Duval), Marco Island, Naples (Collier), Fort Lauderdale (Broward), Lakeland (Polk), Orlando (Orange), Clay (Florida), Savannah, Tybee Island (Chatham), Brunswick, St. Simons Island (Glynn), McIntosh, Camden (Georgia), Charleston, Folly Beach, the Isle of Palms, Sullivan’s Island (Charleston) Hilton Head, Beaufort, Edisto Beach (Colleton) (South Carolina)",,,,2017,9,10,2017,9,28,58
+2564,2017-0108-USA,2017,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"South Carolina, Georgia",,,,2017,3,13,2017,3,15,11
+2565,2017-0022-USA,2017,Meteorological,Storm,Convective storm,Severe storm,"Georgia (cook), Mississippi, Alabama, Louisiana, Florida states",,,,2017,1,18,2017,1,23,24
+2566,2017-0282-USA,2017,Hydrological,Flood,Flash flood,,"Ellison Creek (Water wheel) Tonto National Forest (Gila, Arizona)",Thunderstorm,34.349,-111.264,2017,7,15,2017,7,15,10
+2567,2017-0058-USA,2017,Hydrological,Flood,Riverine flood,,San Jose (North California),Heavy rains,,,2017,2,22,2017,2,22,
+2568,2017-0383-USA,2017,Meteorological,Storm,Tropical cyclone,,"Jersey shore, Seaside Park, Point Pleasant Beach (Ocean), Long Branch (Monmouth) (New Jersey), Fernandina beach (Nassau-Florida)",,,,2017,9,26,2017,9,27,4
+2569,2017-0410-USA,2017,Meteorological,Storm,Tropical cyclone,,"Mexico Gulf, Louisiania, Mississippi (coastal areas, Biloxi), Alabama (Dauphin Island, Autauga, Chilton, Lowndes Counties), Florida, South Carolina (Pickens, Laurens, Spartanburg, Newberry, Greenville, Union), North Carolina (Polk, Wilkes, Ashe )",,,,2017,10,7,2017,10,8,
+2570,2017-0252-USA,2017,Climatological,Wildfire,Forest fire,,"Butte (Oroville), San Luis Obispo, Santa Barbara (California)",Weather,,,2017,7,6,2017,7,10,
+2571,2017-0434-USA,2017,Climatological,Wildfire,"Land fire (Brush, Bush, Pasture)",,"Napa, Sonoma, Mendocino, Lake, Solano, Butte, Yuba, Nevada, Humboldt, Calavaras, Orange counties (California)",,,,2017,10,8,2017,10,20,30
+2572,2017-9550-USA,2017,Climatological,Drought,Drought,,"Upper Midwest, Northern Rockies and parts of the West",,,,2017,3,,2017,9,,
+2573,2017-0511-USA,2017,Climatological,Wildfire,,,"Ventura, Santa Barbara, Los Angeles, San Diego, Riverside counties (California)","Droght, winds",,,2017,12,4,2017,12,31,2
+2578,2018-0111-USA,2018,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Massachusetts, New York, Virginia, Maryland",,,,2018,3,1,2018,3,3,9
+2580,2018-0130-USA,2018,Hydrological,Flood,,,Kauai Isl. (Hawai),Torrential rains,,,2018,4,14,2018,4,15,
+2581,2018-0146-USA,2018,Geophysical,Volcanic activity,Lava flow,,Hawaï,,,,2018,5,3,2018,5,30,
+2582,2018-0258-USA,2018,Climatological,Wildfire,Forest fire,,"Shasta, Trinity, Mendocino, Lake, Colusa, and Glenn counties (California)",,,,2018,7,27,2018,8,31,14
+2583,2018-0419-USA,2018,Hydrological,Flood,Riverine flood,,"Bastrop, Burnet, Colorado, Fayette, Hood, Jim Wells, Kerr, Kimble, La Salle, Live Oak, Llano, Mason, McMullen, Nueces, Real, San Patricio, Travis, and Williamson counties",Heavy rains,,,2018,10,15,2018,10,20,5
+2584,2018-0045-USA,2018,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Plains, SouthEast, Midwest, NorthEast",,,,2018,1,14,2018,1,17,16
+2585,2018-0457-USA,2018,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"New Mexico, Texas, Iowa, Minnesota, Kansas, Louisiana, Tennessee",,,,2018,12,26,2018,12,28,2
+2586,2018-0342-USA,2018,Meteorological,Storm,Tropical cyclone,,"South and North Carolina, Virginia",,,,2018,9,12,2018,9,18,53
+2587,2018-0010-USA,2018,Hydrological,Landslide,Mudslide,,"Santa Barbara County (Montecito and Carpinteria), Los Angeles County (Burbank), Ventura (California)",Heavy rains,,,2018,1,8,2018,1,14,21
+2588,2018-0373-USA,2018,Meteorological,Storm,Tropical cyclone,,"Florida, Georgia, Alabama, North Carolina, Virginia, Maryland",,,,2018,10,10,2018,10,11,45
+2590,2018-0279-USA,2018,Meteorological,Storm,Convective storm,Tornado,"Pella, Marshalltown (Iowa)",,,,2018,7,19,2018,7,22,18
+2591,2018-0046-USA,2018,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Colorado, PLains and Midwest",,,,2018,1,21,2018,1,24,10
+2592,2018-0331-USA,2018,Hydrological,Flood,Flash flood,,"Wisconsin, Iowa, Minnesota, Missouri, Illinois, Kentucky, Pennsylvania, Arkansas, Ohio, Indiana",Tropical Storm Gordon,,,2018,9,3,2018,9,11,2
+2593,2018-0206-USA,2018,Meteorological,Storm,Convective storm,,"New York City, Washington DC, Baltimore, Maryland",,,,2018,5,12,2018,5,16,5
+2594,2018-0170-USA,2018,Meteorological,Storm,Tropical cyclone,,Southeast,,,,2018,5,27,2018,5,30,5
+2595,2018-0409-USA,2018,Climatological,Wildfire,Forest fire,,Butte county (North California),,,,2018,11,8,2018,11,16,88
+2596,2018-9476-USA,2018,Climatological,Drought,Drought,,Nationwide,,,,2018,1,,2018,12,,
+2597,2018-0468-USA,2018,Climatological,Wildfire,,,"Thousand Oaks, Oak Park, Westlake Village, Agoura Hills, West Hills, Simi Valley, Chatsworth, Bell Canyon, Hidden Hills, Malibu and Calabasas (California)",,,,2018,11,8,2018,11,21,2
+2600,2019-0086-USA,2019,Hydrological,Flood,,,"Amador, Glenn, Lake, Mendocino, Sonoma, Humboldt counties (California)",Heavy rain,,,2019,2,25,2019,3,1,1
+2601,2019-0045-USA,2019,Meteorological,Storm,Convective storm,Sand/Dust storm,Midwest and Northeast,,,,2019,1,18,2019,1,21,10
+2602,2019-0090-USA,2019,Hydrological,Flood,,,Northern California,,,,2019,2,26,2019,3,4,1
+2606,2019-0160-USA,2019,Meteorological,Storm,Convective storm,Tornado,"Robertson, Angelina, Houston and Cherokee Counties (Texas); Louisiana, Arkansas, Mississippi",,,,2019,4,12,2019,4,15,8
+2607,2019-0250-USA,2019,Meteorological,Storm,Convective storm,Tornado,"Jefferson city, Golden (Barry county), Carl Junction (Jasper county), Missouri state",,,,2019,5,23,2019,5,31,3
+2608,2019-0624-USA,2019,Meteorological,Storm,Convective storm,Severe storm,"Missouri, Nebraska, Indiana, Kansas, Louisiana, Mississippi, Alabama, Florida, Georgia",,,,2019,12,16,2019,12,18,18
+2609,2019-0116-USA,2019,Hydrological,Flood,Riverine flood,,"Nebraska, Iowa, Wisconsin, Missouri, Kansas, Illinois, Minnesota, South Dakota",Fast snowmelt,,,2019,3,12,2019,3,28,5
+2610,2019-0046-USA,2019,Meteorological,Storm,Convective storm,Winter storm/Blizzard,Upper midwest,,,,2019,1,29,2019,1,31,22
+2611,2019-0593-USA,2019,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Pacific Northwest, Rockies, Northern Plains, Upper Midwest, and the Northeast",,,,2019,11,27,2019,12,3,10
+2612,2019-0184-USA,2019,Meteorological,Storm,Convective storm,Lightning/Thunderstorms,"Texas, Lousiana states",,,,2019,4,24,2019,4,26,5
+2613,2019-0417-USA,2019,Meteorological,Storm,Tropical cyclone,,Texas,,,,2019,9,18,2019,9,24,5
+2615,2019-0007-USA,2019,Meteorological,Storm,Convective storm,Winter storm/Blizzard,"Missouri, Illinois, Iowa, Kansas, Nebraska, Washington DC, Virginia, Colorado, North, South Carolina",,,,2019,1,11,2019,1,15,13
+2618,2019-0081-USA,2019,Meteorological,Storm,Convective storm,Tornado,"Alabama, Georgia, South Carolina, Florida, Mississippi,",,,,2019,3,3,2019,3,4,28
+2619,2019-0484-USA,2019,Meteorological,Storm,Convective storm,Severe storm,"Texas, Arkansas, Oklahoma, Missouri, Louisiana,Tennessee.",,,,2019,10,20,2019,10,21,4
+2620,2019-0306-USA,2019,Geophysical,Earthquake,Ground movement,,Ridgecrest (Califronia),,35.77,-117.599,2019,7,5,2019,7,5,
+2621,2019-0335-USA,2019,Meteorological,Storm,Tropical cyclone,,"Louisiana, Mississippi, Arkansas, Oklahoma, Great Lakes region",,,,2019,7,13,2019,7,15,1
+2622,2019-0412-USA,2019,Meteorological,Storm,Tropical cyclone,,"Florida, Georgia, South Carolina, North Carolina, Virginia",,,,2019,9,4,2019,9,6,9
+2623,2019-0513-USA,2019,Climatological,Wildfire,Forest fire,,Los Angeles and Riverside counties (California),,,,2019,10,10,2019,10,17,3
+2624,2019-0517-USA,2019,Climatological,Wildfire,Forest fire,,"Los Angeles, San Bernardino, Ventura, Sonoma Counties (California)",,,,2019,10,26,2019,10,31,
+2625,2019-0307-USA,2019,Hydrological,Flood,,,"Lincolnton region (Lincoln County, North Carolina)",Heavy rains,,,2019,6,6,2019,6,9,3
+2650,2020-0148-USA,2020,Meteorological,Storm,Convective storm,Tornado,"Louisiana, Texas, Mississippi, South Carolina, Georgia, Tennessee, Arkansas, North Carolina, Alabama",,,,2020,4,10,2020,4,14,38
+2651,2020-0011-USA,2020,Meteorological,Storm,Convective storm,Severe storm,"Texas, Oklahoma, Missouri, Arkansas, Louisiana, Mississippi, Alabama, Tennessee, Kentucky, Georgia states",,,,2020,1,10,2020,1,12,12
+2656,2020-0082-USA,2020,Meteorological,Storm,Convective storm,Tornado,"Nashville (Tennessee), Kentucky, Missouri, Mississippi, Georgia, Texas",,,,2020,3,2,2020,3,5,25
+2657,2020-0219-USA,2020,Meteorological,Storm,Tropical cyclone,,"errebonne, Plaquemines, Lafourche Parishes (Louisiana)",,,,2020,6,7,2020,6,7,1
