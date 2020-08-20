@@ -1,0 +1,187 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+United States,USA,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99363
+United States,USA,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99626
+United States,USA,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00508
+United States,USA,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00423
+United States,USA,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9971
+United States,USA,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9949
+United States,USA,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00434
+United States,USA,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0008
+United States,USA,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00387
+United States,USA,2017,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.8322
+United States,USA,2016,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2015,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2014,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2013,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2012,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2011,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2010,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+United States,USA,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.5
+United States,USA,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.6
+United States,USA,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.7
+United States,USA,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.8
+United States,USA,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.9
+United States,USA,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7
+United States,USA,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.1
+United States,USA,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.2
+United States,USA,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.3
+United States,USA,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.5
+United States,USA,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.6
+United States,USA,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.7
+United States,USA,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.9
+United States,USA,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8
+United States,USA,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.1
+United States,USA,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.1
+United States,USA,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.2
+United States,USA,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.3
+United States,USA,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.4
+United States,USA,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.6
+United States,USA,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.7
+United States,USA,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.9
+United States,USA,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.2
+United States,USA,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.5
+United States,USA,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.8
+United States,USA,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.1
+United States,USA,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.5
+United States,USA,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.9
+United States,USA,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.2
+United States,USA,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.6
+United States,USA,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.9
+United States,USA,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.1
+United States,USA,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.4
+United States,USA,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.7
+United States,USA,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13
+United States,USA,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.4
+United States,USA,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.9
+United States,USA,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.4
+United States,USA,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15
+United States,USA,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.6
+United States,USA,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.3
+United States,USA,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17.1
+United States,USA,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17.9
+United States,USA,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.8
+United States,USA,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,19.7
+United States,USA,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.6
+United States,USA,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,21.5
+United States,USA,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.4
+United States,USA,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,23.2
+United States,USA,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.1
+United States,USA,1968,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.9
+United States,USA,1967,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,25.7
+United States,USA,1966,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26.4
+United States,USA,1965,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,27.1
+United States,USA,1964,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,27.7
+United States,USA,1963,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,28.3
+United States,USA,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,28.9
+United States,USA,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,29.5
+United States,USA,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,30.1
+United States,USA,2017,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,19
+United States,USA,2016,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,19
+United States,USA,2015,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,18
+United States,USA,2014,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,16
+United States,USA,2013,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,16
+United States,USA,2012,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,16
+United States,USA,2011,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,15
+United States,USA,2010,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,15
+United States,USA,2009,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,15
+United States,USA,2008,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,14
+United States,USA,2007,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,14
+United States,USA,2006,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,14
+United States,USA,2005,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,13
+United States,USA,2004,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,13
+United States,USA,2003,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,13
+United States,USA,2002,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,13
+United States,USA,2001,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,13
+United States,USA,2000,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,12
+United States,USA,2016,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,3.5
+United States,USA,2014,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,2.4
+United States,USA,2012,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,2.1
+United States,USA,2009,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,2.7
+United States,USA,2005,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,3.2
+United States,USA,2001,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,3.3
+United States,USA,1991,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,3.2
+United States,USA,2018,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3
+United States,USA,2017,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.1
+United States,USA,2016,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.1
+United States,USA,2015,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.2
+United States,USA,2014,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.2
+United States,USA,2013,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.3
+United States,USA,2012,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.6
+United States,USA,2011,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.9
+United States,USA,2010,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,4.2
+United States,USA,2009,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,4.3
+United States,USA,2008,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,4.9
+United States,USA,2007,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.1
+United States,USA,2006,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.3
+United States,USA,2005,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.5
+United States,USA,2004,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.7
+United States,USA,2003,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.9
+United States,USA,2002,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,6
+United States,USA,2001,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,6.4
+United States,USA,2000,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,6.7
+United States,USA,2016,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+United States,USA,2013,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+United States,USA,2010,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+United States,USA,2007,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+United States,USA,2004,Income share held by lowest 20%,SI.DST.FRST.20,5.2
+United States,USA,2000,Income share held by lowest 20%,SI.DST.FRST.20,5.4
+United States,USA,1997,Income share held by lowest 20%,SI.DST.FRST.20,5.3
+United States,USA,1994,Income share held by lowest 20%,SI.DST.FRST.20,5.3
+United States,USA,1991,Income share held by lowest 20%,SI.DST.FRST.20,5.5
+United States,USA,1986,Income share held by lowest 20%,SI.DST.FRST.20,5.5
+United States,USA,1979,Income share held by lowest 20%,SI.DST.FRST.20,6.4
+United States,USA,1974,Income share held by lowest 20%,SI.DST.FRST.20,6.2
+United States,USA,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.2
+United States,USA,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+United States,USA,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+United States,USA,1994,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+United States,USA,1991,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,1979,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,1974,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.83699994906784
+United States,USA,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.86100002378225
+United States,USA,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.82300000265241
+United States,USA,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.89300003647804
+United States,USA,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.9169999063015
+United States,USA,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.89799998700619
+United States,USA,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,3.97499997168779
+United States,USA,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.0560000911355
+United States,USA,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.07899978011847
+United States,USA,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.19899976998567
+United States,USA,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.2010001540184
+United States,USA,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.15600002557039
+United States,USA,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.26299986243248
+United States,USA,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.34499983489514
+United States,USA,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.36800006777048
+United States,USA,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.40300016850233
+United States,USA,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.37799977511167
+United States,USA,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.23499983549118
+United States,USA,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.28700012713671
+United States,USA,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.31700022518635
+United States,USA,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.34099977463483
+United States,USA,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.47199977189302
+United States,USA,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.63299992680549
+United States,USA,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.69700004160404
+United States,USA,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.71699993312359
+United States,USA,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.82800015807152
+United States,USA,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.85800021886826
+United States,USA,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.77399981021881
+United States,USA,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.91199988126755
+United States,USA,2017,Net migration,SM.POP.NETM,4774029
+United States,USA,2012,Net migration,SM.POP.NETM,4961716
+United States,USA,2007,Net migration,SM.POP.NETM,5428756
+United States,USA,2002,Net migration,SM.POP.NETM,5334893
+United States,USA,1997,Net migration,SM.POP.NETM,8859954
+United States,USA,1992,Net migration,SM.POP.NETM,4463754
+United States,USA,1987,Net migration,SM.POP.NETM,3366853
+United States,USA,1982,Net migration,SM.POP.NETM,3382460
+United States,USA,1977,Net migration,SM.POP.NETM,3770881
+United States,USA,1972,Net migration,SM.POP.NETM,2889346
+United States,USA,1967,Net migration,SM.POP.NETM,1556054
+United States,USA,1962,Net migration,SM.POP.NETM,1835728
